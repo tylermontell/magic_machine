@@ -1,0 +1,16 @@
+{
+    "output": {
+      "filePath": "repopack-output.xml",  
+      "style": "xml"  
+    },
+    "remote": {
+      "url": "https://github.com/tylermontell/magic_machine.git",
+      "branch": "main" 
+    },
+    "includeFiles": [
+      "README.md",
+      "src/",
+      "docs/"
+    ]
+  }
+  

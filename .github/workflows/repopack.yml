@@ -10,30 +10,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Updated to use v3 to address Node.js version warnings
 
+      # Step 2: Install Node.js (updated to version 20 to avoid future deprecations)
       - name: Install Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: '20'
 
+      # Step 3: Install Repopack globally
       - name: Install Repopack
         run: npm install -g repopack
 
-      # Verify Repository Access
+      # Step 4: Verify repository access (for debugging purposes)
       - name: Verify Repository Access
         run: |
           git ls-remote https://github.com/tylermontell/magic_machine.git
 
-      # Run Repopack command and generate the output
-      - name: Run Repopack and Generate Output
+      # Step 5: Run Repopack using the config file to ensure proper XML output
+      - name: Run Repopack with Config
         run: |
-          repopack --remote https://github.com/tylermontell/magic_machine.git || exit 1
+          repopack --config repopack.config.json || exit 1
           echo "Repopack process completed."
           ls -l  # List the current directory to check for repopack-output.xml
 
-      # Check if repopack-output.xml exists in the directory
+      # Step 6: Check if repopack-output.xml exists
       - name: Check Repopack Output
         run: |
           if [ -f "repopack-output.xml" ]; then
@@ -43,17 +46,19 @@ jobs:
             exit 1
           fi
 
-      # Run the preprocessing script only if repopack-output.xml exists
+      # Step 7: Run the preprocessing script only if repopack-output.xml exists
       - name: Run Preprocessing Script
         if: success()
         run: python preprocess_repopack.py
 
+      # Step 8: Upload session summaries as artifacts
       - name: Upload Session Summaries
         uses: actions/upload-artifact@v3
         with:
           name: session-summaries
           path: session_summaries.txt
 
+      # Step 9: Upload optimized repopack output as artifacts
       - name: Upload Optimized Output
         uses: actions/upload-artifact@v3
         with:
