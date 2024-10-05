@@ -28,45 +28,39 @@ jobs:
       - name: Verify Repository Access
         run: git ls-remote https://github.com/tylermontell/magic_machine.git
 
-      # Run Repopack command
+      # Step 4: Run Repopack and Generate Output
       - name: Run Repopack and Generate Output
         run: |
           repopack --config repopack.config.json
           ls -l
 
-      # Step 4: Run Preprocessing Script if repopack-output.xml exists
+      # Step 5: Run Preprocessing Script if repopack-output.xml exists
       - name: Run Preprocessing Script
         if: success()
         run: python preprocess_repopack.py
 
-      # Step 5: Run Repopack using the config file to ensure proper XML output
-      - name: Run Repopack with Config
+      # Step 6: Commit and push the optimized output back to the repository
+      - name: Commit and Push Optimized Output
         run: |
-          repopack --config repopack.config.json || exit 1
-          echo "Repopack process completed."
-          ls -l  # List the current directory to check for repopack-output.xml
+          git config --local user.email "you@example.com"
+          git config --local user.name "GitHub Action"
+          git add optimized-repopack-output.xml
+          git commit -m "Auto-commit optimized repopack output"
+          git push origin main
 
-      # Step 6: Check if repopack-output.xml exists
-      - name: Check Repopack Output
-        run: |
-          if [ -f "repopack-output.xml" ]; then
-            echo "Repopack output found!"
-          else
-            echo "Repopack output not generated."
-            exit 1
-          fi
-
-      # Step 7: Run the preprocessing script only if repopack-output.xml exists
-      - name: Run Preprocessing Script
-        if: success()
-        run: python preprocess_repopack.py
-
-      # Step 8: Upload session summaries as artifacts
+      # Step 7: Upload session summaries as artifacts
       - name: Upload Session Summaries
         uses: actions/upload-artifact@v3
         with:
           name: session-summaries
           path: session_summaries.txt
+
+      # Step 8: Upload optimized repopack output as artifacts
+      - name: Upload Optimized Output
+        uses: actions/upload-artifact@v3
+        with:
+          name: optimized-repopack-output
+          path: ./optimized-repopack-output.xml
 
       # Step 9: Upload optimized repopack output as artifacts
       - name: Upload Optimized Output
@@ -74,3 +68,12 @@ jobs:
         with:
           name: optimized-repopack-output
           path: ./optimized-repopack-output.xml
+      
+      # Step 10: Commit and push the optimized output back to the repository
+      - name: Commit and Push Optimized Output
+        run: |
+          git config --local user.email "you@example.com"
+          git config --local user.name "GitHub Action"
+          git add optimized-repopack-output.xml
+          git commit -m "Auto-commit optimized repopack output"
+          git push origin main
