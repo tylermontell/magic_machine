@@ -21,10 +21,16 @@ jobs:
       - name: Install Repopack
         run: npm install -g repopack
 
+      # Verify Repository Access
+      - name: Verify Repository Access
+        run: |
+          git ls-remote https://github.com/tylermontell/magic_machine.git
+
       # Run Repopack command and generate the output
       - name: Run Repopack and Generate Output
         run: |
-          repopack --remote https://github.com/tylermontell/magic_machine.git
+          repopack --remote https://github.com/tylermontell/magic_machine.git || exit 1
+          echo "Repopack process completed."
           ls -l  # List the current directory to check for repopack-output.xml
 
       # Check if repopack-output.xml exists in the directory
