@@ -23,7 +23,7 @@ jobs:
 
       # Run Repopack command and generate the XML output
       - name: Run Repopack and Generate Output
-        run: repopack --remote https://github.com/your_username/your_repo.git
+        run: repopack --remote https://github.com/tylermontell/magic_machine.git
 
       # Check if the repopack-output.xml exists in the directory
       - name: Verify Repopack Output
