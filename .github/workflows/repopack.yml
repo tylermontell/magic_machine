@@ -21,13 +21,15 @@ jobs:
       - name: Install Repopack
         run: npm install -g repopack
 
-      # Ensure Repopack generates the output file
+      # Run Repopack command and generate the XML output
       - name: Run Repopack and Generate Output
-        run: repopack --remote https://github.com/tylermontell/magic_machine.git
+        run: repopack --remote https://github.com/your_username/your_repo.git
 
-      # Check if repopack-output.xml exists
+      # Check if the repopack-output.xml exists in the directory
       - name: Verify Repopack Output
-        run: ls -l
+        run: |
+          ls -l
+          if [ -f "repopack-output.xml" ]; then echo "Repopack output found!"; else echo "Repopack output not generated."; fi
 
       # Use correct path for the preprocessing script (root directory)
       - name: Run Preprocessing Script
