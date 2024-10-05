@@ -8,8 +8,18 @@
     "branch": "main"
   },
   "ignore": {
-    "useGitignore": true,
+    "useGitignore": false,
     "useDefaultPatterns": true,
-    "customPatterns": ["*.txt", "*.md", "node_modules/"]
+    "customPatterns": [
+      "*.log",
+      "*.swp", "*.swo", "*~",
+      "node_modules/",
+      "venv/", "venv_magic_machine/",
+      ".DS_Store", "._*",
+      ".vscode/",
+      "build/", "dist/", "out/", "temp/", "tmp/",
+      ".idea/",
+      "*.pid", "*.seed", "*.class", "*.o", "*.out"
+    ]
   }
 }
