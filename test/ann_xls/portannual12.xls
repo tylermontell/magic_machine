@@ -1,0 +1,573 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<Author>Morningstar</Author>
+<LastAuthor>Morningstar</LastAuthor>
+<Created>9/19/2024 9:36:40 AM</Created>
+<Version>14.00</Version>
+</DocumentProperties>
+<OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+<AllowPNG/>
+</OfficeDocumentSettings>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<WindowHeight>12330</WindowHeight>
+<WindowWidth>18195</WindowWidth>
+<WindowTopX>480</WindowTopX>
+<WindowTopY>120</WindowTopY>
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+<Styles>
+<Style ss:ID="Default" ss:Name="Normal">
+<Alignment ss:Vertical="Center"/>
+<Borders/>
+<Font ss:FontName="Arial" ss:Size="11" ss:Color="#000000"/>
+<Interior/>
+<NumberFormat/>
+<Protection/>
+</Style>
+<Style ss:ID="s_521">
+<Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="1"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_522">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="1"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_523">
+<Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_524">
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="#,##0.00"/>
+</Style><Style ss:ID="s_525">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="Standard"/>
+</Style><Style ss:ID="s_526">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="MM/dd/yyyy"/>
+</Style><Style ss:ID="s_527">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_528">
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_529">
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_530">
+<Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style>
+</Styles>
+<Worksheet ss:Name="MSEXP0919093640.xls">
+<Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="19" ss:DefaultRowHeight="13.5">
+<Column ss:AutoFitWidth="0" ss:Width="250"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Row >
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">G Aggressive</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Portfolio Holdings</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Annual</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">  FINRA members: For internal or institutional use only.</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Print Date 09-19-2024</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Ranked by:</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">ascending</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Name</Data>
+</Cell>
+</Row>
+<Row >
+</Row>
+<Row >
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Name</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Morningstar Category</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Mkt Annl Return  2014</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Mkt Annl Return  2015</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Mkt Annl Return  2016</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Mkt Annl Return  2017</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Mkt Annl Return  2018</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Mkt Annl Return  2019</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Mkt Annl Return  2020</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Mkt Annl Return  2021</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Mkt Annl Return  2022</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Mkt Annl Return  2023</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Vanguard Developed Markets Index Admiral</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">US Fund Foreign Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-5.66</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-0.18</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">2.45</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">26.40</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-14.46</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">22.05</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">10.26</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">11.43</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-15.32</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">17.67</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Vanguard Emerging Mkts Stock Idx Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">US Fund Diversified Emerging Mkts</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">0.60</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-15.35</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">11.73</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">31.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-14.58</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">20.31</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">15.24</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">0.86</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-17.78</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">9.21</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Vanguard Inflation-Protected Secs Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">US Fund Inflation-Protected Bond</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">3.97</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-1.69</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">4.62</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">2.91</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-1.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">8.16</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">10.96</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">5.68</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-11.85</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">3.79</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Vanguard Real Estate Index Admiral</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">US Fund Real Estate</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">30.32</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">2.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">8.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">4.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-5.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">28.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-4.65</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">40.40</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-26.20</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">11.81</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Vanguard Total Bond Market Index Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">US Fund Intermediate Core Bond</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">5.89</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">0.40</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">2.60</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">3.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-0.03</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">8.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">7.72</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-1.67</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-13.16</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">5.70</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Vanguard Total Intl Bd Idx Admiral™</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">US Fund Global Bond-USD Hedged</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">8.82</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">1.06</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">4.66</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">2.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">2.97</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">7.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">4.54</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-2.22</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-12.92</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">8.83</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Vanguard Total Stock Mkt Idx Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">US Fund Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">12.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">0.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">12.66</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">21.17</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-5.17</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">30.80</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">20.99</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">25.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-19.53</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">26.01</Data>
+</Cell>
+</Row>
+<Row >
+</Row>
+<Row >
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Aggregate:
+			</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">7.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-1.02</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">9.21</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">20.27</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-7.30</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">25.20</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">15.67</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">17.27</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-17.73</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">19.60</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Average:
+          </Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">-</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">Benchmark:
+			</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">DJ Aggressive TR USD</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">6.59</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-2.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">10.98</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">23.20</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-9.45</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">27.13</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">15.99</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">18.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">-16.96</Data>
+</Cell>
+<Cell  ss:StyleID="s_524">
+<Data ss:Type="Number">19.02</Data>
+</Cell>
+</Row>
+<Row ss:Height="290">
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String">©2024 Morningstar. All Rights Reserved. The information, data, analyses and opinions contained herein (1) include the confidential and proprietary information of Morningstar, (2) may include, or be derived from, account information provided by your financial advisor which cannot be verified by Morningstar, (3) may not be copied or redistributed,(4) do not constitute investment advice offered by Morningstar, (5)are provided solely for informational purposes and therefore are not an offer to buy or sell a security, and (6) are not warranted to be correct, complete or accurate. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses resulting from, or related to, this information, data, analyses or opinions or their use. This report is supple-mental sales literature. If applicable it must be preceded or accompanied by a prospectus, or equivalent,and disclosure statement.</Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell  ss:StyleID="s_528">
+<Data ss:Type="String"></Data>
+</Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>

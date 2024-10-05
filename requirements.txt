@@ -1,0 +1,7 @@
+lxml
+beautifulsoup4
+sqlalchemy
+openpyxl
+pymysql
+psycopg2-binary
+xlrd

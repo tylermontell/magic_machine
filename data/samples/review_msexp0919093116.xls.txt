@@ -1,0 +1,8 @@
+name	ticker	m_cat	ar_14	ar_15	ar_16	ar_17	ar_18	ar_19	ar_20	ar_21	ar_22	ar_23
+Cambria Global Asset Allocation ETF	GAA	US Fund Global Allocation	-	-4.10	8.98	15.11	-7.15	15.11	9.13	11.17	-8.43	7.67
+FlexShares Real Assets Allocation ETF	ASET	US Fund Global Large-Stock Blend	-	-	8.19	14.33	-9.39	24.41	-0.80	18.56	-9.90	5.34
+iShares Core Aggressive Allocation ETF	AOA	US Fund Global Allocation	6.01	-1.08	7.77	20.04	-7.87	22.61	12.81	15.41	-16.23	18.27
+iShares Core Conservative Allocation ETF	AOK	US Fund Moderately Conservative Allocation	3.98	-1.01	5.04	9.70	-3.08	13.90	9.32	4.87	-14.16	10.85
+iShares Core Growth Allocation ETF	AOR	US Fund Moderate Allocation	6.43	-1.07	6.68	15.80	-5.83	18.91	11.41	11.18	-15.65	15.75
+iShares Core Moderate Allocation ETF	AOM	US Fund Moderately Conservative Allocation	4.66	-1.29	5.71	11.63	-3.89	15.58	10.02	6.93	-14.54	12.40
+S&P 500 TR USD	-	-	13.69	1.38	11.96	21.83	-4.38	31.49	18.40	28.71	-18.11	26.29

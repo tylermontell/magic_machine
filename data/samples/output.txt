@@ -1,0 +1,278 @@
+ ticker                                                 name r_risk_score low_6mo_return high_6mo_return pot_6mo_return   vol est_dividend r_net_expense
+AACRX ·                 American Century Strat Allc: Cnsrv R           48          -9.08           11.73           1.32  6.33         0.82          1.22
+VGSLX ·                              Vanguard REIT Index Adm           91         -26.91           35.77           4.43 19.05         2.56          0.12
+FTMRX ·                       Franklin Moderate Allocation R           54         -10.71           15.01           2.15  7.82         1.57          0.87
+VCSAX ·                  Vanguard Consumer Staples Index Adm           61         -12.44           18.37           2.97  9.37         2.38          0.10
+  KXI ·                      iShares Global Consumer Staples           64         -13.49           19.70           3.10 10.09         2.78          0.41
+  MXI ·                             iShares Global Materials           90         -25.05           33.54           4.25 17.81         2.54          0.42
+LPRNX ·                           BlackRock LifePath® 2030 R           61         -12.69           18.73           3.02  9.55         2.75          0.91
+AORHX ·               American Century One Choice VryCnsrv R           35          -5.58            9.89           2.16  4.70         2.45          0.51
+VUIAX ·                         Vanguard Utilities Index Adm           73         -16.14           22.21           3.03 11.66         2.81          0.10
+LPRPX ·                           BlackRock LifePath® 2050 R           77         -17.42           24.54           3.56 12.76         2.71          0.95
+ASMRX ·                   American Century Strat Allc: Mod R           60         -12.26           16.30           2.02  8.68         1.33          1.19
+LPDRX ·                    BlackRock LifePath Dynamic 2060 R           73         -15.88           25.33           4.73 12.53         1.96          0.96
+AORYX ·                  American Century One Choice Agrsv R           69         -14.61           20.13           2.76 10.56         1.43          0.51
+BRMPX ·                  BlackRock 40/60 Target Allocation R           51          -9.78           14.45           2.33  7.36         2.31          0.60
+FTCRX ·                   Franklin Conservative Allocation R           44          -8.03           12.16           2.06  6.14         2.03          0.86
+LPRKX ·                           BlackRock LifePath® 2040 R           76         -17.00           21.36           2.18 11.66         0.33          0.94
+  IXC ·                                iShares Global Energy           90         -25.70           34.73           4.51 18.37         3.72          0.41
+ARSRX ·                 American Century One Choice In Ret R           48          -9.11           11.81           1.35  6.36         0.88          1.25
+  IXG ·                            iShares Global Financials           90         -26.02           35.01           4.50 18.55         2.53          0.41
+ WOOD ·                     iShares Global Timber & Forestry           90         -25.27           32.76           3.74 17.64         1.48          0.41
+  IXJ ·                            iShares Global Healthcare           71         -15.47           20.54           2.53 10.95         1.25          0.41
+VFIJX ·                                    Vanguard GNMA Adm           25          -2.98            6.65           1.84  2.93         2.85          0.11
+FGTRX ·                         Franklin Growth Allocation R           67         -14.24           18.89           2.32 10.07         1.12          0.89
+  IXP ·                               iShares Global Telecom           78         -17.66           22.83           2.59 12.31         0.99          0.41
+LPRRX ·                     BlackRock LifePath® Retirement R           49          -9.39           12.14           1.37  6.55         0.64          0.91
+ LRGF ·                    iShares FactorSelect MSCI USA ETF           79         -17.87           24.41           3.27 12.85         1.21          0.08
+  EEM ·                        iShares MSCI Emerging Markets           89         -24.45           32.01           3.78 17.16         2.28          0.70
+OAANX ·                          Invesco Active Allocation R           72         -15.74           19.61           1.93 10.74         0.00          0.72
+  IGF ·                        iShares Global Infrastructure           82         -18.84           26.77           3.97 13.86         3.19          0.42
+  JXI ·                             iShares Global Utilities           74         -16.46           22.95           3.24 11.98         3.03          0.50
+VTIAX ·              Vanguard Total Intl Stock Index Admiral           83         -19.31           27.55           4.12 14.24         2.82          0.12
+ABRRX ·                         Invesco Balanced-Risk Allc R           51          -9.93           11.93           1.00  6.65         1.81          1.53
+VFIAX ·                           Vanguard 500 Index Admiral           78         -17.79           24.52           3.36 12.86         1.25          0.04
+AORMX ·                    American Century One Choice Mod R           59         -11.95           17.15           2.60  8.84         1.73          0.50
+VDADX ·                 Vanguard Dividend Apprec Idx Admiral           71         -15.31           21.69           3.19 11.25         1.68          0.08
+  IXN ·                                  iShares Global Tech           88         -22.55           28.69           3.07 15.58         0.45          0.40
+ INTF ·                   iShares FactorSelect MSCI Intl ETF           75         -16.83           24.91           4.04 12.69         3.34          0.15
+ GLOF ·                  iShares MSCI Global Multifactor ETF           75         -16.64           24.06           3.71 12.37         2.28          0.00
+VIMAX ·                           Vanguard Mid Cap Index Adm           86         -20.76           27.89           3.57 14.79         1.17          0.05
+LPHRX ·                           BlackRock LifePath® 2045 R           78         -17.69           22.97           2.64 12.36         1.04          0.96
+LPJRX ·                           BlackRock LifePath® 2035 R           68         -14.34           20.53           3.09 10.60         2.55          0.93
+LPVRX ·                           BlackRock LifePath® 2055 R           81         -18.51           23.88           2.69 12.88         0.93          0.96
+  EXI ·                           iShares Global Industrials           86         -21.42           28.44           3.51 15.15         1.35          0.41
+VGHAX ·                             Vanguard Health Care Adm           72         -15.68           20.33           2.33 10.94         0.83          0.30
+BRAPX ·                  BlackRock 80/20 Target Allocation R           73         -16.06           20.09           2.02 10.99         0.00          0.60
+VFIDX ·             Vanguard Interm-Term Investment-Grde Adm           32          -4.65            8.91           2.13  4.12         3.88          0.10
+AORVX ·               American Century One Choice VryAgrsv R           79         -18.01           23.82           2.90 12.72         0.95          0.51
+GIPRX ·                    Goldman Sachs Balanced Strategy R           48          -9.06           12.32           1.63  6.50         1.03          0.81
+VSMAX ·                         Vanguard Small Cap Index Adm           89         -23.69           30.58           3.44 16.50         0.74          0.30
+BRGPX ·                  BlackRock 60/40 Target Allocation R           64         -13.41           16.77           1.68  9.17         0.00          0.63
+BRCRX ·              Invesco Balanced-Risk Commodity Strat R           83         -19.27           20.70           0.72 12.15         0.00          1.58
+  RXI ·                 iShares Globl Consumer Discretionary           87         -21.65           28.49           3.42 15.24         1.15          0.41
+LPWRX ·             BlackRock LifePath Dynamic 2065 Fund Cla           73         -16.16           26.05           4.94 12.83         0.24          0.99
+BRCPX ·                  BlackRock 20/80 Target Allocation R           41          -7.24           11.24           2.00  5.62         2.72          0.74
+ONMIX ·             Invesco Select Risk: Moderate Investor R           63         -13.03           17.24           2.10  9.20         0.82          0.63
+ REET ·                                  iShares Global REIT           85         -20.30           27.95           3.82 14.67         2.63          0.14
+ ICLN ·                          iShares Global Clean Energy           95         -35.24           43.77           4.26 24.02         1.50          0.41
+QMGRX ·                    Invesco Advantage International R           59         -12.10           19.35           3.63  9.56         4.46          1.08
+AAARX ·                 American Century Strat Allc: Agrsv R           71         -15.21           19.87           2.33 10.66         1.17          1.13
+LPBRX ·                           BlackRock LifePath® 2025 R           58         -11.78           15.68           1.95  8.35         1.10          0.91
+MMUGX ·                                     MFS Utilities R1           80         -18.18           21.33           1.57 12.01         0.61          1.77
+  IWB ·                                 iShares Russell 1000           80         -18.19           24.77           3.29 13.06         1.14          0.15
+  EWA ·                               iShares MSCI Australia           90         -24.62           34.10           4.74 17.85         3.56          0.50
+BITSX ·              iShares Total US Stock Market Idx Instl           81         -18.51           25.01           3.25 13.23         0.92          0.07
+ SUSC ·                   iShares ESG USD Corporate Bond ETF           40          -6.97            9.12           1.07  4.89         2.15          0.18
+  GAA ·                  Cambria Global Asset Allocation ETF           50          -9.53           17.09           3.78  8.09         4.49          0.30
+ SMIN ·                     iShares MSCI India Small-Cap ETF           94         -33.19           37.66           2.23 21.54         0.28          0.74
+  SCJ ·                         iShares MSCI Japan Small-Cap           75         -16.65           22.11           2.73 11.78         2.12          0.50
+GAUIX ·                                  Gabelli Utilities I           57         -11.56           22.19           5.31 10.26         8.97          1.18
+  IHF ·                      iShares US Healthcare Providers           87         -22.34           27.88           2.77 15.27         0.74          0.39
+VBTLX ·                 Vanguard Total Bond Market Index Adm           28          -3.59            6.87           1.64  3.18         2.81          0.05
+ IEFA ·                           iShares Core MSCI EAFE ETF           85         -19.86           27.71           3.92 14.46         2.94          0.07
+ IDEV ·             iShares Core MSCI Intl Developed Markets           76         -17.08           24.95           3.94 12.78         2.85          0.04
+CUHIX ·                Victory CEMP US 500 Enh Vol Wtd Idx I           68         -14.59           18.91           2.16 10.18         0.97          0.74
+  XLP ·             Consumer Staples Select Sector SPDR® ETF           59         -12.14           18.08           2.97  9.18         2.54          0.09
+  IEO ·                     iShares US Oil&Gas Explor&Prodtn           95         -36.67           46.11           4.72 25.16         2.73          0.40
+JUESX ·                               JPMorgan US Equity Sel           82         -18.89           24.25           2.68 13.11         0.47          0.69
+ EMXC ·           iShares MSCI Emerging Markets ex China ETF           83         -19.38           25.98           3.30 13.79         1.81          0.25
+SHPAX ·                    Saratoga Health & Biotechnology A           78         -17.68           19.22           0.77 11.22         0.00          2.75
+JDURX ·                        Prudential Jennison Utility R           82         -18.86           22.78           1.96 12.66         0.71          1.11
+FLVCX ·                    Fidelity® Leveraged Company Stock           91         -26.66           33.87           3.60 18.40         0.89          0.75
+RYCIX ·                          Rydex Consumer Products Inv           70         -14.88           17.26           1.19  9.77         0.00          1.40
+ IDNA ·       iShares Genomics Immunology and Healthcare ETF           92         -29.31           35.80           3.24 19.79         1.14          0.47
+ ICSH ·                    iShares Ultra Short-Term Bond ETF            1           0.09            1.82           0.96  0.52         5.24          0.08
+  IJH ·                         iShares Core S&P Mid-Cap ETF           87         -21.68           29.01           3.67 15.41         1.26          0.05
+  IHI ·                           iShares US Medical Devices           85         -20.33           25.56           2.62 13.95         0.50          0.40
+PDFDX ·                                    Perkins Discovery           92         -29.69           33.32           1.81 19.15         0.00          2.50
+  SDG ·                       iShares MSCI Global Impact ETF           76         -17.07           22.87           2.90 12.14         1.87          0.49
+  IYW ·                                iShares US Technology           88         -22.80           28.71           2.96 15.66         0.32          0.40
+ USRT ·                           iShares Core U.S. REIT ETF           90         -25.58           34.53           4.48 18.27         2.74          0.08
+  GSG ·             iShares S&P GSCI Commodity-Indexed Trust           91         -27.16           30.59           1.72 17.55         0.00          0.83
+ EWJV ·                         iShares MSCI Japan Value ETF           64         -13.45           20.21           3.38 10.23         3.18          0.15
+BBGPX ·                                     BlackRock GNMA K           26          -2.99            6.97           1.99  3.03         3.35          0.37
+FIKIX ·                         Fidelity Advisor Utilities Z           78         -17.52           21.35           1.91 11.82         0.84          0.62
+  IYK ·                            iShares US Consumer Goods           68         -14.48           20.88           3.20 10.75         2.57          0.40
+  AOR ·                       iShares Core Growth Allocation           53         -10.52           15.86           2.67  8.02         1.85          0.10
+FRBXX ·                          Fidelity Treasury Portfolio            1           0.02            2.91           1.46  0.88         2.95          0.14
+ DGRO ·                         iShares Core Dividend Growth           73         -15.85           22.90           3.53 11.78         2.17          0.08
+  IYM ·                           iShares US Basic Materials           91         -26.63           34.68           4.02 18.64         1.61          0.40
+FSLCX ·                            Fidelity® Small Cap Stock           90         -25.81           31.69           2.94 17.48         0.02          0.86
+  AGG ·                       iShares Core US Aggregate Bond           29          -4.04            7.28           1.62  3.44         3.73          0.03
+ AAXJ ·               iShares MSCI All Country Asia ex Japan           89         -23.68           30.45           3.39 16.45         1.77          0.70
+  IYC ·                         iShares US Consumer Services           86         -20.56           26.48           2.96 14.30         0.58          0.40
+  AOA ·                   iShares Core Aggressive Allocation           69         -14.73           21.71           3.49 11.08         2.30          0.11
+  IYF ·                                iShares US Financials           90         -24.79           32.30           3.76 17.36         1.36          0.39
+  IYZ ·                        iShares US Telecommunications           83         -19.46           26.00           3.27 13.82         2.04          0.40
+ VEGI ·              iShares MSCI Glbl Agriculture Producers           84         -19.66           26.57           3.45 14.05         2.46          0.39
+ IXUS ·               iShares Core MSCI Total Intl Stock ETF           77         -17.17           24.87           3.85 12.78         2.86          0.07
+  IEZ ·                    iShares US Oil Equipment&Services           97         -43.68           53.05           4.68 29.40         1.50          0.40
+CSVIX ·                                  Calvert Small Cap I           87         -21.90           26.96           2.53 14.85         0.29          0.94
+  IWR ·                              iShares Russell Mid-Cap           86         -20.85           27.93           3.54 14.83         1.24          0.19
+OFINX ·                   Invesco Intermediate Bond Factor R           31          -4.42            7.39           1.48  3.59         3.14          0.78
+HLRRX ·             REMS Real Estate Value Opportunity Instl           91         -27.01           34.52           3.76 18.70         1.98          1.03
+SCCPX ·                     Sterling Capital Corporate Instl           47          -8.90           14.20           2.65  7.02         3.65          0.45
+ VLUE ·                        iShares MSCI USA Value Factor           84         -19.71           27.61           3.95 14.38         2.40          0.15
+  EZU ·                                iShares MSCI Eurozone           90         -24.64           33.30           4.33 17.61         2.70          0.51
+ASQIX ·                   American Century Small Company Inv           89         -23.96           29.66           2.85 16.30         0.33          0.86
+  WPS ·             iShares International Developed Property           86         -21.39           30.69           4.65 15.83         4.12          0.48
+  IWC ·                                    iShares Micro-Cap           91         -26.16           33.16           3.50 18.03         1.13          0.60
+CRISX ·                            CRM Small Cap Value Instl           89         -23.55           29.96           3.20 16.27         1.35          1.00
+VHCIX ·                       Vanguard Health Care Index Adm           75         -16.52           21.81           2.65 11.65         0.91          0.10
+VNVYX ·                   Natixis Vaughan Nelson Value Opp Y           86         -21.41           26.48           2.54 14.56         0.47          0.90
+JGINX ·                              Janus Growth & Income I           81         -18.81           24.64           2.92 13.21         1.02          0.70
+ HAWX ·        iShares Currency Hedged MSCI ACWI ex U.S. ETF           64         -13.41           20.83           3.71 10.41         2.74          0.03
+IOBZX ·                ICON Flexible Bond Fund Institutional           27          -3.47            7.78           2.15  3.42         5.95          0.76
+RIGFX ·                    American Funds Intl Gr and Inc R5           76         -16.91           23.10           3.09 12.16         2.01          0.59
+  IYR ·                               iShares US Real Estate           91         -26.57           35.03           4.23 18.72         2.47          0.39
+PHSYX ·                          Putnam Global Health Care Y           75         -16.69           20.09           1.70 11.18         0.00          0.82
+ IUSV ·                      iShares Core S&P U.S. Value ETF           81         -18.53           25.85           3.66 13.49         1.80          0.04
+VTABX ·                  Vanguard Total Intl Bd Idx Admiral™           27          -3.44            5.85           1.20  2.83         4.65          0.11
+KSMIX ·                         Keeley Small-Mid Cap Value I           91         -28.21           34.20           2.99 18.97         0.00          1.14
+HDVSX ·                     Hartford International Equity R4           86         -20.79           25.29           2.25 14.01         0.00          0.95
+BISOX ·                    BlackRock Short Obligations Instl            1           1.59            3.59           2.59  0.61         4.53          0.28
+  IGV ·                 iShares North American Tech-Software           88         -23.36           28.82           2.73 15.86         0.00          0.41
+  SCZ ·                          iShares MSCI EAFE Small-Cap           86         -20.69           28.62           3.96 14.99         2.58          0.40
+  IAU ·                                   iShares Gold Trust           72         -15.52           24.75           4.61 12.24         0.00          0.25
+DLHIX ·                                Delaware Healthcare I           84         -19.53           24.12           2.29 13.27         0.73          0.96
+IGJIX ·                          Ivy Government Securities I           34          -5.27            6.37           0.55  3.54         2.04          0.67
+RYHAX ·                                  Rydex Health Care H           80         -18.46           21.42           1.48 12.12         0.00          1.65
+ EAGG ·                    iShares ESG US Aggregate Bond ETF           24          -2.45            6.76           2.15  2.80         3.65          0.09
+ ACWI ·                                    iShares MSCI ACWI           82         -19.02           26.00           3.49 13.68         1.59          0.32
+FKUTX ·                                 Franklin Utilities A           74         -16.32           20.53           2.11 11.20         1.58          0.71
+SSEIX ·              AMG SouthernSun US Equity Institutional           90         -25.73           31.23           2.75 17.31         0.33          1.09
+ IPAC ·                            iShares Core MSCI Pacific           73         -15.87           23.20           3.67 11.88         2.90          0.09
+ IAUF ·                            iShares Gold Strategy ETF           56         -11.09           20.13           4.52  9.49        11.37          0.18
+  EFG ·                             iShares MSCI EAFE Growth           85         -19.86           26.46           3.30 14.08         1.45          0.36
+  EWC ·                                  iShares MSCI Canada           87         -22.04           29.32           3.64 15.61         2.00          0.50
+DHAMX ·                    Centre American Select Equity Inv           76         -17.16           20.41           1.63 11.42         0.00          1.36
+  EFV ·                              iShares MSCI EAFE Value           85         -19.97           29.63           4.83 15.08         4.33          0.34
+  SLV ·                                 iShares Silver Trust           96         -37.20           39.76           1.28 23.39         0.00          0.50
+  IYJ ·                               iShares US Industrials           87         -22.24           28.95           3.35 15.56         0.87          0.39
+  ITA ·                 iShares U.S. Aerospace & Defense ETF           88         -23.40           29.56           3.08 16.10         0.82          0.40
+  GBF ·                       iShares Government/Credit Bond           35          -5.56            8.61           1.52  4.31         3.46          0.20
+ URTH ·                               iShares MSCI World ETF           77         -17.50           24.03           3.27 12.63         1.46          0.24
+CRARX ·                          MainStay CBRE Real Estate I           91         -27.01           35.32           4.15 18.95         2.67          0.83
+ ILCB ·                        iShares Morningstar Large-Cap           78         -17.54           24.13           3.30 12.67         1.22          0.03
+  IVV ·                                 iShares Core S&P 500           78         -17.74           24.46           3.36 12.83         1.25          0.03
+ QUAL ·                  iShares MSCI USA Quality Factor ETF           80         -18.21           24.54           3.16 13.00         0.99          0.15
+ IYLD ·               iShares Morningstar Multi-Asset Income           51          -9.90           18.56           4.33  8.65         5.60          0.24
+  ITB ·                         iShares US Home Construction           95         -36.18           43.52           3.67 24.23         0.39          0.39
+  IOO ·                                   iShares Global 100           81         -18.54           24.71           3.08 13.15         1.10          0.40
+  DVY ·                              iShares Select Dividend           78         -17.77           25.76           4.00 13.23         3.38          0.38
+ EMGF ·               iShares FactorSelect MSCI Emerging ETF           78         -17.66           25.06           3.70 12.99         5.04          0.31
+MAIIX ·                  BlackRock International Index Instl           82         -19.04           27.10           4.03 14.03         2.67          0.10
+VMRXX · Vanguard Cash Reserves Fed Money Market Fund Admiral            1           2.57            2.57           2.57  0.00         4.39          0.10
+  IYT ·                       iShares Transportation Average           89         -24.15           31.17           3.51 16.82         1.19          0.39
+ RING ·                      iShares MSCI Global Gold Miners           98         -47.80           51.92           2.06 30.31         1.36          0.39
+  AIA ·                                      iShares Asia 50           89         -24.18           31.23           3.52 16.84         1.91          0.50
+  ICF ·                          iShares Cohen & Steers REIT           92         -28.34           36.99           4.32 19.86         2.48          0.33
+MSUSX ·                 Morgan Stanley Inst US Real Estate I           91         -27.50           34.45           3.47 18.83         0.97          0.58
+  IAI ·                            iShares US Broker-Dealers           91         -26.60           34.09           3.75 18.45         1.35          0.40
+ GLDM ·                           SPDR Gold MiniShares Trust           74         -16.45           25.33           4.44 12.70         0.00          0.10
+ IFRA ·                        iShares US Infrastructure ETF           86         -20.50           27.28           3.39 14.52         1.68          0.30
+  HDV ·                           iShares Core High Dividend           69         -14.68           22.05           3.69 11.16         3.22          0.08
+  IHE ·                           iShares US Pharmaceuticals           78         -17.76           23.20           2.72 12.45         1.41          0.39
+BSPIX ·                  iShares S&P 500 Index Institutional           79         -18.15           24.14           2.99 12.85         0.57          0.10
+  IAK ·                                 iShares US Insurance           89         -24.40           31.31           3.46 16.94         1.20          0.39
+ ASET ·              FlexShares Real Assets Allocation Index           75         -16.57           22.57           3.00 11.90         2.03          0.10
+HSZYX ·                          Highland Small-Cap Equity Y           92         -28.25           33.28           2.52 18.70         0.00          1.08
+ INDY ·                                     iShares India 50           91         -28.20           32.52           2.16 18.46         0.28          0.89
+  IYY ·                                 iShares Dow Jones US           80         -18.34           24.84           3.25 13.12         1.10          0.20
+  AOK ·                 iShares Core Conservative Allocation           33          -4.97           10.10           2.57  4.58         2.98          0.09
+ LDEM ·                      iShares ESG MSCI EM Leaders ETF           84         -19.69           21.24           0.78 12.44         2.82          0.16
+ SLVP ·                    iShares MSCI Global Silver Miners           98         -53.98           58.96           2.49 34.33         0.63          0.39
+PGLOX ·                   T. Rowe Price Global Consumer Fund           73         -16.07           24.65           4.29 12.38         0.25          1.06
+CCPIX ·                       Calvert Capital Accumulation I           86         -20.97           25.81           2.42 14.22         0.14          0.93
+  EWJ ·                                   iShares MSCI Japan           78         -17.57           23.47           2.95 12.48         1.95          0.50
+RYPCX ·                    Royce Pennsylvania Mutual Consult           89         -24.24           28.53           2.14 16.04         0.00          1.94
+  EPP ·                        iShares MSCI Pacific ex Japan           87         -22.45           31.43           4.49 16.38         3.47          0.48
+BULIX ·                       American Century Utilities Inv           72         -15.75           20.89           2.57 11.14         2.15          0.66
+PRPIX ·                       T. Rowe Price Corporate Income           38          -6.28           10.43           2.08  5.08         3.71          0.59
+  MBB ·                                      iShares MBS ETF           28          -3.66            6.25           1.30  3.01         3.64          0.03
+  IYE ·                                    iShares US Energy           92         -28.88           37.25           4.19 20.10         2.72          0.39
+AGMNX ·                       American Century Ginnie Mae R5           27          -3.35            6.16           1.40  2.89         3.28          0.35
+GRERX ·               Goldman Sachs Real Estate Securities R           91         -27.66           34.44           3.39 18.88         1.79          1.47
+ ACWX ·                              iShares MSCI ACWI ex US           85         -19.87           27.83           3.98 14.50         2.63          0.34
+AFAVX ·              AMG River Road Focused Absolute Value I           85         -20.36           24.93           2.28 13.77         0.00          0.81
+VEMAX ·                 Vanguard Emerging Mkts Stock Idx Adm           88         -22.81           30.61           3.90 16.24         2.25          0.14
+CINCX ·                                     Calvert Income I           30          -4.09           10.38           3.15  4.40         5.35          0.67
+OAKLX ·                              Oakmark Select Investor           89         -24.19           30.07           2.94 16.49         0.47          0.99
+ MCHI ·                                   iShares MSCI China           92         -28.63           35.12           3.25 19.38         2.51          0.59
+  EFA ·                                    iShares MSCI EAFE           84         -19.52           27.58           4.03 14.32         2.80          0.33
+GWSCX ·                                 Gabelli Focus Five C           87         -22.34           31.20           4.43 16.28         5.17          2.53
+  IYH ·                                iShares US Healthcare           74         -16.34           21.43           2.54 11.48         1.08          0.39
+NOIYX ·                               Natixis Oakmark Intl Y           92         -29.10           31.84           1.37 18.53         2.04          0.90
+ IEMG ·               iShares Core MSCI Emerging Markets ETF           89         -23.90           32.85           4.48 17.25         2.60          0.08
+ IUSB ·                   iShares Core Total USD Bond Market           31          -4.36            6.39           1.01  3.27         3.71          0.06
+AREDX ·                      American Century Real Estate R6           87         -21.77           27.48           2.85 14.97         1.59          0.80
+ BGRN ·                        iShares Global Green Bond ETF           31          -4.59            8.90           2.15  4.10         3.76          0.16
+  IWM ·                                 iShares Russell 2000           89         -24.12           31.57           3.72 16.93         1.20          0.19
+ IFGL ·                    iShares International Dev Rel Est           87         -21.63           29.77           4.07 15.63         3.09          0.54
+  OEF ·                                      iShares S&P 100           78         -17.63           23.82           3.09 12.60         1.01          0.20
+VEIRX ·                           Vanguard Equity-Income Adm           74         -16.43           22.61           3.09 11.87         1.41          0.18
+DBRIX ·      DoubleLine Colony Enhanced Real Estate Income I           89         -23.66           29.13           2.74 16.05         0.50          0.65
+ MTUM ·                 iShares MSCI USA Momentum Factor ETF           83         -19.49           25.12           2.81 13.56         0.56          0.15
+  IJR ·                       iShares Core S&P Small-Cap ETF           89         -23.63           31.10           3.74 16.64         1.24          0.06
+NSCRX ·                         Nuveen NWQ Small-Cap Value I           91         -26.15           32.35           3.10 17.78         0.53          0.94
+VTMGX ·               Vanguard Developed Markets Idx Admiral           83         -19.28           27.32           4.02 14.16         2.57          0.08
+ FIBR ·         iShares Edge U.S. Fixed Income Balanced Risk           36          -5.81            7.36           0.78  4.00         4.71          0.25
+  FXI ·                              iShares China Large-Cap           92         -28.85           35.70           3.43 19.62         2.28          0.74
+ IUSG ·                     iShares Core S&P U.S. Growth ETF           82         -19.07           25.42           3.17 13.52         0.75          0.04
+ ITOT ·                  iShares Core S&P Total US Stock Mkt           80         -18.27           25.10           3.42 13.18         1.24          0.03
+  IAT ·                            iShares US Regional Banks           92         -29.04           38.22           4.59 20.44         3.42          0.40
+ SIZE ·                         iShares MSCI USA Size Factor           82         -19.08           25.85           3.39 13.66         1.33          0.15
+CULIX ·                         Calvert Ultra-Short Income I            8          -0.56            2.98           1.21  1.08         4.75          0.47
+VTSAX ·                     Vanguard Total Stock Mkt Idx Adm           81         -18.73           25.03           3.15 13.30         0.67          0.04
+DFYGX ·               LWAS/DFA Two-Year Government Portfolio            1           1.25            3.73           2.49  0.75         4.33          0.17
+  EWU ·                          iShares MSCI United Kingdom           83         -19.39           28.11           4.36 14.44         3.81          0.50
+  AOM ·                     iShares Core Moderate Allocation           40          -7.02           12.43           2.70  5.91         2.71          0.10
+ IEDI ·               iShares Evolved US Disctnry Spndng ETF           79         -18.09           27.62           4.77 13.90         1.00          0.18
+  AGZ ·                                  iShares Agency Bond           22          -2.04            4.28           1.12  1.92         3.05          0.20
+IDMIX ·               iMGP Dolan McEniry Corporate Bond Inst           34          -5.20            7.82           1.31  3.96         3.73          0.70
+GSUIX ·                     Goldman Sachs US Mortgages Instl           26          -3.11            7.39           2.14  3.19         3.52          0.46
+  IWV ·                                 iShares Russell 3000           81         -18.53           25.08           3.27 13.26         1.10          0.20
+GTHIX ·                         Invesco Health Care Investor           80         -18.21           21.73           1.76 12.14         0.00          1.04
+ FLOT ·                           iShares Floating Rate Bond           13          -0.98            2.88           0.95  1.17         5.94          0.15
+FDIGX ·                 Fidelity Advisor® Consumer Staples I           69         -14.82           19.50           2.34 10.43         1.46          0.72
+ TECB ·             iShares US Tech Breakthrough Multisector           85         -19.86           31.53           5.84 15.62         0.21          0.30
+VGIAX ·                         Vanguard Growth & Income Adm           80         -18.24           24.58           3.17 13.02         0.99          0.22
+  BKF ·                                    iShares MSCI BRIC           91         -27.67           34.21           3.27 18.81         1.24          0.70
+  IGM ·                          iShares North American Tech           88         -22.72           28.69           2.99 15.63         0.30          0.41
+ GNMA ·                               iShares Core GNMA Bond           31          -4.48            5.53           0.53  3.04         3.82          0.09
+BMOIX ·                  BlackRock US Total Bond Index Instl           30          -4.18            8.19           2.01  3.76         3.04          0.10
+  IYG ·                        iShares US Financial Services           91         -28.10           36.13           4.01 19.52         1.37          0.39
+JDRVX ·                       Prudential Government Income R           29          -3.87            6.05           1.09  3.01         2.52          1.25
+  IDU ·                                 iShares US Utilities           75         -16.52           21.63           2.56 11.60         2.14          0.39
+GIGGX ·                          Deutsche GNMA Institutional           27          -3.49            6.87           1.69  3.15         2.89          0.56
+ IHAK ·                   iShares Cybersecurity and Tech ETF           87         -21.66           25.92           2.13 14.46         0.10          0.47
+FALIX ·                        Fidelity Advisor® Large Cap I           87         -21.92           27.09           2.59 14.90         0.00          0.88
+TRZXX ·                    T. Rowe Price US Treasury Money Z           14          -1.03            1.87           0.42  0.88         0.00          0.00
+ IMCB ·                      iShares Morningstar Mid-Cap ETF           86         -20.82           28.23           3.70 14.91         1.42          0.04
+ ISCF ·               iShares FactorSelect MSCI Intl Small-C           78         -17.79           26.30           4.25 13.40         3.73          0.28
+  ILF ·                             iShares Latin America 40           92         -29.75           41.37           5.81 21.62         5.81          0.48
+ COMT ·                  iShares Commodities Select Strategy           84         -19.79           27.53           3.87 14.38         4.94          0.44
+ INDA ·                                   iShares MSCI India           91         -26.52           30.63           2.05 17.37         0.00          0.65
+FGIOX ·                  Fidelity Advisor® Growth & Income I           81         -18.65           24.39           2.87 13.09         0.94          0.65
+ ECNS ·                         iShares MSCI China Small-Cap           92         -29.69           39.39           4.85 21.00         5.68          0.59
+ EEMA ·                   iShares MSCI Emerging Markets Asia           86         -20.88           26.84           2.98 14.51         1.83          0.49
+GSSIX ·                  Goldman Sachs Small Cap Value Instl           88         -23.40           29.28           2.94 16.01         0.81          1.01
+ IEUR ·                             iShares Core MSCI Europe           83         -19.19           27.23           4.02 14.11         2.91          0.11
+  EWH ·                               iShares MSCI Hong Kong           87         -21.84           30.72           4.44 15.98         4.41          0.50
+VAIPX ·                Vanguard Inflation-Protected Secs Adm           29          -4.03            9.38           2.67  4.08         4.22          0.10
+ FILL ·                 iShares MSCI Global Energy Producers           91         -27.53           36.41           4.44 19.44         4.00          0.39
+ PICK ·             iShares MSCI Glbl Metals & Mining Prdcrs           94         -34.32           43.89           4.79 23.78         3.67          0.39
+                                         Cash / Money Market            1           0.45            3.35           1.90  0.88         2.95          0.00
+                                             Balanced Growth           53         -10.31           16.04           2.87  8.01         2.49          0.11
+                                                      Income           32          -4.83            5.80           0.48  3.23         1.95          0.06
+                                                Conservative           36          -5.73            9.47           1.87  4.62         2.77          0.09
+                                                  Aggressive           66         -13.79           20.10           3.16 10.30         2.11          0.11
+                                                    Balanced           47          -8.69           13.75           2.53  6.82         2.60          0.10
+                                     G Moderately Aggressive           66         -14.05           20.14           3.04 10.39         1.91          0.07
+                                              G Conservative           46          -8.65           13.72           2.54  6.80         2.60          0.07
+                                   G Moderately Conservative           53         -10.41           15.85           2.72  7.98         2.40          0.07
+                                             Very Aggressive           76         -17.01           23.97           3.48 12.46         1.96          0.14
+                                                  G Moderate           60         -12.21           17.90           2.85  9.15         2.11          0.07
+                                                G Aggressive           73         -15.95           22.41           3.23 11.66         1.73          0.07
+                                           G Very Aggressive           78         -17.83           24.70           3.43 12.93         1.54          0.07

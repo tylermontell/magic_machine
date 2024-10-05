@@ -1,0 +1,3354 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<Author>Morningstar</Author>
+<LastAuthor>Morningstar</LastAuthor>
+<Created>9/19/2024 9:26:06 AM</Created>
+<Version>14.00</Version>
+</DocumentProperties>
+<OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+<AllowPNG/>
+</OfficeDocumentSettings>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<WindowHeight>12330</WindowHeight>
+<WindowWidth>18195</WindowWidth>
+<WindowTopX>480</WindowTopX>
+<WindowTopY>120</WindowTopY>
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+<Styles>
+<Style ss:ID="Default" ss:Name="Normal">
+<Alignment ss:Vertical="Center"/>
+<Borders/>
+<Font ss:FontName="Arial" ss:Size="11" ss:Color="#000000"/>
+<Interior/>
+<NumberFormat/>
+<Protection/>
+</Style>
+<Style ss:ID="s_471">
+<Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="1"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_472">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="1"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_473">
+<Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_474">
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="#,##0.00"/>
+</Style><Style ss:ID="s_475">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="Standard"/>
+</Style><Style ss:ID="s_476">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="MM/dd/yyyy"/>
+</Style><Style ss:ID="s_477">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_478">
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_479">
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_480">
+<Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style>
+</Styles>
+<Worksheet ss:Name="MSEXP0919092605.xls">
+<Table ss:ExpandedColumnCount="13" ss:ExpandedRowCount="86" ss:DefaultRowHeight="13.5">
+<Column ss:AutoFitWidth="0" ss:Width="250"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">TM- Tracking iShares</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Mutual Fund Universe</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">TM- MF Annual</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">  FINRA members: For internal or institutional use only.</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Print Date 09-19-2024</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Ranked by:</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">ascending</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Name</Data>
+</Cell>
+</Row>
+<Row >
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Name</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Ticker</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Morningstar Category</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Annual Return 2014</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Annual Return 2015</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Annual Return 2016</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Annual Return 2017</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Annual Return 2018</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Annual Return 2019</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Annual Return 2020</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Annual Return 2021</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Annual Return 2022</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Annual Return 2023</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">American Century Ginnie Mae R5</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">AGMNX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Intermediate Government</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.09</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.97</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.26</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.42</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.63</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.37</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">3.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.46</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-11.32</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.91</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">American Century Real Estate R6</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">AREDX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Real Estate</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">30.16</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">3.08</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.08</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.54</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.65</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">31.14</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-8.01</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">41.82</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-24.46</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.43</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">American Century Small Company Inv</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">ASQIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Small Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.74</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-5.46</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.05</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.58</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-14.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">19.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">16.40</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">20.97</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-21.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">21.29</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">American Century Utilities Inv</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">BULIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Utilities</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">20.13</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-6.54</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">23.61</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.62</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.91</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">19.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-2.42</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.74</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-5.08</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-7.49</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">American Funds Intl Gr and Inc R5</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">RIGFX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Foreign Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-2.98</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-8.00</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">2.47</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.45</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-14.16</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">27.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.17</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.07</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-15.16</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">15.62</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">AMG River Road Focused Absolute Value I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">AFAVX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Mid-Cap Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.17</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.01</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-3.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">34.68</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.85</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">15.31</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-16.19</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">12.49</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">BlackRock GNMA K</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">BBGPX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Intermediate Government</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.33</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.05</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.63</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.42</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.51</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.53</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.24</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.10</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-12.44</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.21</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Calvert Income I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">CINCX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Corporate Bond</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.55</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">7.01</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-2.99</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.98</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.57</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.90</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-15.37</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.80</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Calvert Mid-Cap I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">CCPIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Mid-Cap Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.09</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-3.18</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">12.14</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.01</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">30.91</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.98</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-19.48</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.72</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Calvert Small-Cap I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">CSVIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Small Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">7.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">20.54</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.69</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-6.54</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.30</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">19.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-15.91</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.73</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Centre American Select Equity Inv</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">DHAMX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.99</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.61</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">3.27</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.20</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-3.65</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">16.44</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">30.78</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">27.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-3.31</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.91</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">CRM Small Cap Value Instl</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">CRISX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Small Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-2.29</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">24.82</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-15.13</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.00</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-3.07</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">17.01</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-6.09</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">9.87</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Delaware Healthcare I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">DLHIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Health</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">17.32</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.66</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.09</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">32.32</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.58</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">31.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.44</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.05</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.45</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">DWS GNMA Inst</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">GIGGX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Intermediate Government</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.42</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.07</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.35</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.48</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.41</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.73</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">3.25</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.10</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-11.75</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.98</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Fidelity Advisor Consumer Staples I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">FDIGX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Consumer Defensive</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.89</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.90</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">3.04</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">12.06</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-15.82</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">31.75</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.57</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.49</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.46</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">2.98</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Fidelity Advisor Growth &amp; Income I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">FGIOX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.32</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-2.35</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">15.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">16.85</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-9.21</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">30.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">7.55</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.70</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.76</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.27</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Fidelity Advisor Large Cap I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">FALIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.27</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-3.41</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">16.92</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-9.15</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">31.72</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.87</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.80</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-7.91</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">23.47</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Fidelity Advisor Utilities Z</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">FIKIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Utilities</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">21.60</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-10.70</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">17.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.66</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">22.54</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">17.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.29</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.31</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Fidelity Leveraged Company Stock</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">FLVCX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.59</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-6.05</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">7.26</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">21.02</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-16.42</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">35.60</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.74</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.16</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-23.14</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.11</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Fidelity Small Cap Stock</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">FSLCX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Small Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">7.19</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">2.40</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">12.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.84</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-11.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">29.46</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.80</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">20.23</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-22.54</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">19.70</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Franklin Utilities A1</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">FKUTX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Utilities</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.18</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-7.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">17.77</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">2.70</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.80</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">17.98</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.68</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.84</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Gabelli Focused Gr and Inc C</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">GWSCX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Aggressive Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">3.01</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-13.84</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.86</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">16.19</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-25.90</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.91</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">7.87</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.18</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-14.47</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.45</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Gabelli Utilities I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">GAUIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Utilities</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">9.25</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-8.10</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">17.36</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">9.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.84</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.99</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-3.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">17.66</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-5.10</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-6.35</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Goldman Sachs Real Estate Securities R</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">GRERX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Real Estate</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">29.29</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">2.89</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.09</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.92</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-5.62</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.14</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-8.02</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">43.82</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-28.22</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">16.26</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Goldman Sachs Small Cap Value Inst</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">GSSIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Small Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">7.28</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-5.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">24.65</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">12.34</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-14.02</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">23.14</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">2.06</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-14.75</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.32</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Goldman Sachs US Mortgages Instl</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">GSUIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Intermediate Government</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.07</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.53</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.85</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.82</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.70</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.78</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.36</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-12.51</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.16</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Hartford International Equity R4</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">HDVSX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Foreign Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-5.68</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.66</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.02</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">28.47</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-16.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">20.41</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">9.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.49</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-14.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.89</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">ICON Flexible Bond Institutional</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">IOBZX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Multisector Bond</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.57</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.68</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.14</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.24</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.77</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.14</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.60</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.17</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-5.63</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">9.24</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">iMGP Dolan McEniry Corporate Bond Instl</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">IDMIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Short-Term Bond</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.25</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.86</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-8.08</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">7.38</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Invesco Health Care Invstor</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">GTHIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Health</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">20.36</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">2.98</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-11.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">15.46</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.46</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">31.99</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.44</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">12.19</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-13.53</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">3.05</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Invesco Intermediate Bond Factor R</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">OFINX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Intermediate Core Bond</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.40</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.47</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.48</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.89</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.31</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.75</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">7.26</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.59</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-13.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.89</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">iShares MSCI EAFE Intl Idx Instl</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">MAIIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Foreign Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-6.12</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.91</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.99</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.24</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-13.37</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">21.80</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.03</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.28</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-14.18</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.32</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">iShares S&amp;P 500 Index Institutional</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">BSPIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.53</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.28</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.84</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">21.68</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.44</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">31.34</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.34</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">28.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-18.19</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.15</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">iShares Total US Stock Market Idx Instl</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">BITSX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.08</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">20.99</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-5.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">31.04</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">20.73</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.51</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-19.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.97</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">iShares US Aggregate Bond Index Instl</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">BMOIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Intermediate Core Bond</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.88</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.33</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">2.48</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">3.34</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.13</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">7.59</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.85</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-13.09</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.65</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Janus Henderson Growth And Income I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">JGINX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.28</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.53</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">12.99</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">24.98</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.89</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">27.02</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.36</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">28.97</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-14.15</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.02</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">JPMorgan US Equity I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">JUESX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.69</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.67</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">21.40</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-6.07</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">31.91</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.41</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">28.47</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-18.98</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">27.04</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Keeley Small-Mid Cap Value I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">KSMIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Small Value</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.62</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-10.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">20.92</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.13</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-17.65</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">31.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.86</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.18</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-12.63</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">19.42</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">LDR Real Estate Value Opportunity Instl</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">HLRRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Real Estate</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.48</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">9.89</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.36</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-13.63</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">31.75</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-3.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">40.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-21.25</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.48</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">MFS Utilities R1</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">MMUGX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Utilities</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.78</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-15.41</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.53</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.87</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.10</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">23.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.23</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.01</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.32</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-2.98</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Morgan Stanley Inst US Real Estate I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">MSUSX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Real Estate</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">30.74</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">2.27</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.79</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">3.31</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-8.44</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.40</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-18.05</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">38.96</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-26.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.69</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Natixis Oakmark International Y</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">NOIYX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Foreign Large Value</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-6.05</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-5.35</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.19</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">29.78</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-23.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">24.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.32</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.97</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-15.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">19.26</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Natixis Vaughan Nelson Mid Cap Y</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">VNVYX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Mid-Cap Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.23</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-3.46</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.14</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.19</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-15.85</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">30.52</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.76</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">21.65</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-10.58</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">16.52</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">NexPoint Climate Tech Y</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">HSZYX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Small Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.05</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-9.32</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">31.96</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-6.53</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">20.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-49.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">37.87</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-15.32</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-10.86</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Nuveen Small-Cap Value Opps I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">NSCRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Small Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.78</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-3.86</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">21.67</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">12.04</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-18.99</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.10</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.47</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.73</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-5.26</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">16.67</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">NYLI CBRE Real Estate Class I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">CRARX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Real Estate</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">29.77</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">3.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.26</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.12</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-7.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">28.19</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-6.49</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">52.63</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-27.02</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">12.19</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Oakmark Select Investor</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">OAKLX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Large Value</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">15.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-3.58</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">15.31</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">15.72</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-24.88</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">27.69</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.76</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">34.04</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-22.74</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">43.00</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Perkins Discovery</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">PDFDX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Health</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.42</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-10.49</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.87</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.58</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">22.17</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">15.01</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">62.10</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">2.28</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-39.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.77</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">PGIM Government Income R</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">JDRVX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Intermediate Government</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.99</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.29</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.23</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.34</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.58</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.09</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-14.28</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.11</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">PGIM Jennison Utility R</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">JDURX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Utilities</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">20.30</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-12.87</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">15.37</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.57</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.18</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.59</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">3.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.31</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.09</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Putnam Global Health Care Y</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">PHSYX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Health</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">27.79</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">7.81</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-11.47</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">15.55</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">30.58</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">16.22</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">19.70</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.46</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">9.31</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Royce Small-Cap Fund Consult</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">RYPCX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Small Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.72</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-12.31</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.20</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">15.06</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-10.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.25</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">12.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">20.78</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-17.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.39</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Rydex Consumer Products Inv</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">RYCIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Consumer Defensive</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">12.87</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.55</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.78</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.96</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-11.85</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">22.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.29</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.12</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.41</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-2.84</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Rydex Health Care H</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">RYHAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Health</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">24.30</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">3.78</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-9.62</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">23.16</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.21</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">22.53</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.66</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.97</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-11.82</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.60</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Saratoga Health &amp; Biotechnology A</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">SHPAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Health</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">19.28</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.91</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.96</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.99</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-5.47</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">16.19</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">3.62</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">16.69</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">2.03</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.36</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">SouthernSun U.S. Equity, I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">SSEIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Mid-Cap Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.35</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-10.60</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">16.60</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.67</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-23.13</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">31.60</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.37</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">22.67</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.18</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.86</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Sterling Capital Long Dur Corp Bd Instl</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">SCCPX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Corporate Bond</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.72</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.46</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.22</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.96</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.77</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.14</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.02</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-23.65</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.03</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">T. Rowe Price Corporate Income</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">PRPIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Corporate Bond</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.25</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.66</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.08</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.57</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-3.06</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.58</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">7.87</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.76</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-17.02</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.79</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">T. Rowe Price Global Consumer</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">PGLOX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Consumer Defensive</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">20.81</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-7.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">24.84</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">31.58</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-27.34</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">19.53</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Vanguard 500 Index Admiral</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">VFIAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.36</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">21.79</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.43</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">31.46</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.37</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">28.66</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-18.15</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.24</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Vanguard Consumer Staples Index Admiral</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">VCSAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Consumer Defensive</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">15.85</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.01</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.30</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.80</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-7.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.07</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">17.52</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.74</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">2.37</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Vanguard Dividend Appreciation Index Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">VDADX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.04</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.79</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">22.22</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-2.03</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">29.68</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">15.46</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">23.62</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-9.80</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.46</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Vanguard Equity-Income Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">VEIRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Large Value</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.86</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.82</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.49</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-5.65</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.35</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">3.13</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.00</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">7.76</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Vanguard GNMA Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">VFIJX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Intermediate Government</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">6.76</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.43</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.97</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">0.97</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">3.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.02</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-10.73</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.26</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Vanguard Growth &amp; Income Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">VGIAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.16</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">2.03</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">12.12</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">20.80</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.61</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">29.77</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.08</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">29.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-17.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">24.76</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Vanguard Health Care Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">VGHAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Health</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">28.57</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">12.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-8.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">19.66</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.21</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">22.98</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">12.67</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.36</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.01</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.48</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Vanguard Health Care Index Admiral</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">VHCIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Health</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.42</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">7.21</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-3.33</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">23.36</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.55</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">21.97</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.24</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">20.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-5.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">2.48</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Vanguard Interm-Term Investment-Grde Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">VFIDX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Corporate Bond</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">5.91</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.63</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">3.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.26</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.47</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.49</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">10.41</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.14</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-13.78</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.61</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Vanguard Mid Cap Index Admiral</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">VIMAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Mid-Cap Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.76</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.34</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.22</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">19.25</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-9.23</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">31.03</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.24</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">24.51</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-18.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">15.98</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Vanguard Real Estate Index Admiral</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">VGSLX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Real Estate</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">30.32</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">2.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-5.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">28.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.65</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">40.40</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-26.20</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.81</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Vanguard Small Cap Index Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">VSMAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Small Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">7.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-3.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.30</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">16.24</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-9.31</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">27.37</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">19.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">17.73</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-17.61</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.20</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Vanguard Total Intl Stock Index Admiral</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">VTIAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Foreign Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.17</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.26</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.67</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">27.55</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-14.43</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">21.51</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.28</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">8.62</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-16.01</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">15.52</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Vanguard Utilities Index Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">VUIAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Utilities</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">17.51</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">12.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">4.45</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">24.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-0.81</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">17.35</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.13</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-7.45</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Victory US 500 Enh Vol Wtd Idx I</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">CUHIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">US Fund Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.35</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-1.02</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">14.03</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">21.86</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-8.98</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">21.10</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">19.21</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">25.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-14.57</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-3.94</Data>
+</Cell>
+</Row>
+<Row >
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Aggregate:
+			</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Average:
+          </Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">Benchmark:
+			</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">S&amp;P 500 TR USD</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">13.69</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">1.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">11.96</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">21.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-4.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">31.49</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">18.40</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">28.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">-18.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_474">
+<Data ss:Type="Number">26.29</Data>
+</Cell>
+</Row>
+<Row ss:Height="290">
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String">©2024 Morningstar. All Rights Reserved. The information, data, analyses and opinions contained herein (1) include the confidential and proprietary information of Morningstar, (2) may include, or be derived from, account information provided by your financial advisor which cannot be verified by Morningstar, (3) may not be copied or redistributed,(4) do not constitute investment advice offered by Morningstar, (5)are provided solely for informational purposes and therefore are not an offer to buy or sell a security, and (6) are not warranted to be correct, complete or accurate. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses resulting from, or related to, this information, data, analyses or opinions or their use. This report is supple-mental sales literature. If applicable it must be preceded or accompanied by a prospectus, or equivalent,and disclosure statement.</Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell  ss:StyleID="s_478">
+<Data ss:Type="String"></Data>
+</Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>

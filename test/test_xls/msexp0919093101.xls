@@ -1,0 +1,1591 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<Author>Morningstar</Author>
+<LastAuthor>Morningstar</LastAuthor>
+<Created>9/19/2024 9:31:01 AM</Created>
+<Version>14.00</Version>
+</DocumentProperties>
+<OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+<AllowPNG/>
+</OfficeDocumentSettings>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<WindowHeight>12330</WindowHeight>
+<WindowWidth>18195</WindowWidth>
+<WindowTopX>480</WindowTopX>
+<WindowTopY>120</WindowTopY>
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+<Styles>
+<Style ss:ID="Default" ss:Name="Normal">
+<Alignment ss:Vertical="Center"/>
+<Borders/>
+<Font ss:FontName="Arial" ss:Size="11" ss:Color="#000000"/>
+<Interior/>
+<NumberFormat/>
+<Protection/>
+</Style>
+<Style ss:ID="s_661">
+<Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="1"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_662">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="1"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_663">
+<Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_664">
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="#,##0.00"/>
+</Style><Style ss:ID="s_665">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="Standard"/>
+</Style><Style ss:ID="s_666">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="MM/dd/yyyy"/>
+</Style><Style ss:ID="s_667">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_668">
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_669">
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_670">
+<Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style>
+</Styles>
+<Worksheet ss:Name="MSEXP0919093101.xls">
+<Table ss:ExpandedColumnCount="13" ss:ExpandedRowCount="43" ss:DefaultRowHeight="13.5">
+<Column ss:AutoFitWidth="0" ss:Width="250"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">TM- Allocation Fund</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Mutual Fund Universe</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">TM- MF Annual</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">  FINRA members: For internal or institutional use only.</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Print Date 09-19-2024</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Ranked by:</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">ascending</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Name</Data>
+</Cell>
+</Row>
+<Row >
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Name</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Ticker</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Morningstar Category</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Annual Return 2014</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Annual Return 2015</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Annual Return 2016</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Annual Return 2017</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Annual Return 2018</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Annual Return 2019</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Annual Return 2020</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Annual Return 2021</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Annual Return 2022</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Annual Return 2023</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">American Century One Choice Agrsv R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">AORYX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Moderately Aggressive Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.78</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-1.76</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.35</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">18.59</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-8.59</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">23.29</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">17.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">13.36</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-17.60</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.55</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">American Century One Choice In Ret R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">ARSRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Target-Date Retirement</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">5.67</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-2.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">5.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">9.58</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-4.57</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">15.19</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">10.19</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">8.27</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-13.62</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">10.54</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">American Century One Choice Mod R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">AORMX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Moderate Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.45</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-2.00</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">5.92</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.85</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-7.13</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">19.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">15.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">11.27</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-16.72</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">12.46</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">American Century One Choice VryAgrsv R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">AORVX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Aggressive Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">7.42</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-1.81</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.85</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">22.20</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-10.48</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">27.03</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">20.57</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">15.26</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-19.89</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">16.66</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">American Century One Choice VryCnsrv R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">AORHX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Conservative Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">5.02</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-1.62</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">5.07</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">5.92</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-2.98</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">11.40</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">8.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.09</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-11.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">7.15</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">American Century Strat Allc: Agrsv R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">AAARX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Moderately Aggressive Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.54</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-1.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">18.49</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-8.37</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">23.84</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">17.74</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.46</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-15.88</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.64</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">American Century Strat Allc: Cnsrv R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">AACRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Moderately Conservative Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">5.76</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-1.90</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">4.52</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">10.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-4.99</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">15.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">12.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">8.90</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-13.49</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">10.10</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">American Century Strat Allc: Mod R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">ASMRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Moderate Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.23</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-2.25</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">5.82</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.55</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-6.84</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">20.06</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">15.62</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">11.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-15.00</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">12.35</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BlackRock 20/80 Target Allocation R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BRCPX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Conservative Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.04</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">0.81</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">2.42</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">7.27</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-2.88</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">11.89</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">9.99</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">3.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-15.14</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">8.13</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BlackRock 40/60 Target Allocation R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BRMPX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Moderately Conservative Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.16</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">0.36</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">3.72</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">11.14</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-4.22</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">16.07</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.16</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">7.48</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-15.21</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">11.57</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BlackRock 60/40 Target Allocation R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BRGPX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Moderate Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.28</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-0.54</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">4.65</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.08</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-6.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">20.41</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">16.69</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">10.78</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-16.27</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">15.03</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BlackRock 80/20 Target Allocation R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BRAPX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Moderately Aggressive Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.49</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-2.02</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">16.88</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-8.18</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">24.10</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">18.97</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.33</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-16.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">18.38</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BlackRock LifePath® Dyn 2025 R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">LPBRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Target-Date 2025</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">4.69</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-2.36</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.28</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">15.02</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-5.10</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">19.00</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">12.35</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">8.30</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-15.65</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">12.56</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BlackRock LifePath® Dyn 2030 R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">LPRNX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Target-Date 2030</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">4.73</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-2.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.74</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">17.16</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-5.91</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">21.44</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">12.58</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">10.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-16.21</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.85</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BlackRock LifePath® Dyn 2035 R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">LPJRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Target-Date 2035</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">4.96</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-2.65</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">7.10</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">19.08</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-6.87</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">23.15</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">13.33</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">13.19</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-16.91</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">16.69</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BlackRock LifePath® Dyn 2040 R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">LPRKX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Target-Date 2040</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">4.96</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-2.75</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">7.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">20.86</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-7.92</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">25.10</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">13.45</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">15.55</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-17.48</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">18.68</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BlackRock LifePath® Dyn 2045 R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">LPHRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Target-Date 2045</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">5.08</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-2.80</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">7.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">21.81</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-8.63</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">25.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">13.73</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">17.10</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-18.03</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">20.43</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BlackRock LifePath® Dyn 2050 R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">LPRPX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Target-Date 2050</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">5.21</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-2.92</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">7.75</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">22.24</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-8.74</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">25.92</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.23</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">17.65</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-19.05</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">21.41</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BlackRock LifePath® Dyn 2055 R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">LPVRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Target-Date 2055</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">5.37</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-3.00</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">7.74</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">21.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-8.87</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">25.89</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.96</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">17.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-19.09</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">21.60</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BlackRock LifePath® Dyn Retirement R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">LPRRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Target-Date Retirement</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">4.25</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-2.10</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">5.59</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">11.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-4.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">16.24</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">12.41</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.41</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-15.25</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">11.76</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BlackRock LifePath® Dynamic 2060 R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">LPDRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Target-Date 2060</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-9.05</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">25.92</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">13.84</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">17.63</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-19.04</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">21.79</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BlackRock LifePath® Dynamic 2065 Inv R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">LPWRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Target-Date 2065+</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">13.47</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">17.86</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-18.92</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">21.82</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Franklin Conservative Allocation R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">FTCRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Moderately Conservative Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">3.10</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-2.52</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">4.15</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">10.25</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-3.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">12.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">8.98</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">7.99</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-15.48</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">11.15</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Franklin Growth Allocation R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">FGTRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Moderately Aggressive Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">4.72</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-1.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">5.12</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">19.17</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-6.68</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">21.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.30</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">16.14</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-17.40</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">17.30</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Franklin Moderate Allocation R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">FTMRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Moderate Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">3.89</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-2.18</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">4.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.69</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-5.04</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">17.05</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">12.17</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">12.05</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-16.37</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.12</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Goldman Sachs Balanced Strategy R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">GIPRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Tactical Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">2.25</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-1.23</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">5.04</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">10.81</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-7.07</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">10.42</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">7.32</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-14.30</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">11.77</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Invesco Active Allocation R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">OAANX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Moderately Aggressive Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">4.03</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-1.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">4.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">19.02</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-9.88</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">23.00</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">12.70</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">13.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-19.56</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">13.33</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Invesco Advantage International R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">QMGRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Foreign Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.18</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">18.57</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-13.26</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">20.37</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">11.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">6.26</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-11.73</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">3.79</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Invesco Balanced-Risk Allocation R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">ABRRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Tactical Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">5.27</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-4.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">10.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">9.42</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-7.22</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.29</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">9.09</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">8.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-15.33</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">5.82</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Invesco Balanced-Risk Commodity Strat R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">BRCRX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Commodities Broad Basket</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-16.21</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-17.03</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">11.22</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">4.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-12.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">4.07</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">7.40</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">18.61</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">7.62</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-3.72</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Invesco Select Risk: Moderate Inv R</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">ONMIX</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">US Fund Moderate Allocation</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">4.84</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-1.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">4.49</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">14.75</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-7.15</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">19.61</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">11.32</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">9.92</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-17.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">11.84</Data>
+</Cell>
+</Row>
+<Row >
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Aggregate:
+			</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Average:
+          </Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">Benchmark:
+			</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">S&amp;P 500 TR USD</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">13.69</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">1.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">11.96</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">21.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-4.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">31.49</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">18.40</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">28.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">-18.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_664">
+<Data ss:Type="Number">26.29</Data>
+</Cell>
+</Row>
+<Row ss:Height="290">
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String">©2024 Morningstar. All Rights Reserved. The information, data, analyses and opinions contained herein (1) include the confidential and proprietary information of Morningstar, (2) may include, or be derived from, account information provided by your financial advisor which cannot be verified by Morningstar, (3) may not be copied or redistributed,(4) do not constitute investment advice offered by Morningstar, (5)are provided solely for informational purposes and therefore are not an offer to buy or sell a security, and (6) are not warranted to be correct, complete or accurate. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses resulting from, or related to, this information, data, analyses or opinions or their use. This report is supple-mental sales literature. If applicable it must be preceded or accompanied by a prospectus, or equivalent,and disclosure statement.</Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell  ss:StyleID="s_668">
+<Data ss:Type="String"></Data>
+</Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>

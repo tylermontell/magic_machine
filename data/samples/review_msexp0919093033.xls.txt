@@ -1,0 +1,67 @@
+name	ticker	m_cat	ar_14	ar_15	ar_16	ar_17	ar_18	ar_19	ar_20	ar_21	ar_22	ar_23
+iShares Asia 50 ETF	AIA	US Fund Pacific/Asia ex-Japan Stk	0.27	-7.67	11.97	45.00	-14.23	22.19	33.74	-10.90	-24.08	4.90
+iShares China Large-Cap ETF	FXI	US Fund China Region	11.45	-12.93	1.08	36.22	-13.26	14.87	8.93	-20.05	-20.66	-12.35
+iShares Core MSCI EAFE ETF	IEFA	US Fund Foreign Large Blend	-6.33	0.73	1.58	26.59	-14.13	22.63	8.17	11.65	-15.21	17.99
+iShares Core MSCI Emerging Markets ETF	IEMG	US Fund Diversified Emerging Mkts	-3.44	-14.31	10.29	37.40	-14.93	17.79	17.88	-0.61	-19.97	11.57
+iShares Core MSCI Europe ETF	IEUR	US Fund Europe Stock	-	-0.92	-0.59	26.73	-14.85	24.95	5.29	16.73	-15.86	19.73
+iShares Core MSCI Intl Dev Mkts ETF	IDEV	US Fund Foreign Large Blend	-	-	-	-	-14.08	23.10	8.31	13.01	-14.96	17.40
+iShares Core MSCI Pacific ETF	IPAC	US Fund Diversified Pacific/Asia	-	3.47	5.05	25.99	-12.78	19.43	12.39	3.11	-13.68	14.56
+iShares Core MSCI Total Intl Stk ETF	IXUS	US Fund Foreign Large Blend	-5.01	-4.67	4.72	28.14	-14.40	21.69	10.80	8.87	-16.45	15.87
+iShares Currency Hdgd MSCI ACWI exUS ETF	HAWX	US Fund Foreign Large Blend	-	-	7.12	19.22	-9.79	22.75	6.90	13.40	-8.56	17.04
+iShares Em Mkts Eq Fac ETF	EMGF	US Fund Diversified Emerging Mkts	-	-	8.11	42.38	-19.72	20.94	10.27	6.67	-16.55	10.94
+iShares Global 100 ETF	IOO	US Fund Global Large-Stock Blend	2.09	-1.77	8.37	23.57	-6.22	30.00	18.61	26.03	-16.32	27.73
+iShares Global Clean Energy ETF	ICLN	US Fund Miscellaneous Sector	-4.78	3.82	-16.91	21.48	-9.02	44.35	141.80	-24.18	-5.41	-20.38
+iShares Global Comm Services ETF	IXP	US Fund Communications	-1.38	-0.08	5.53	6.65	-13.67	25.20	22.16	12.77	-32.94	38.82
+iShares Global Consumer Discr ETF	RXI	US Fund Consumer Cyclical	3.03	5.75	3.11	22.94	-6.31	26.77	24.46	16.33	-29.08	27.58
+iShares Global Consumer Staples ETF	KXI	US Fund Consumer Defensive	6.42	6.14	1.24	17.60	-10.70	23.39	7.69	13.69	-6.01	2.45
+iShares Global Energy ETF	IXC	US Fund Equity Energy	-11.68	-22.04	27.88	5.54	-14.82	12.60	-30.94	40.97	48.49	3.90
+iShares Global Equity Factor ETF	GLOF	US Fund Global Large-Stock Blend	-	-	4.99	29.87	-13.70	23.20	10.00	18.68	-16.96	22.41
+iShares Global Financials ETF	IXG	US Fund Financial	2.86	-3.65	11.73	23.79	-16.33	24.60	-2.99	25.10	-8.93	14.99
+iShares Global Healthcare ETF	IXJ	US Fund Health	17.29	5.98	-6.03	20.44	2.83	23.22	12.75	19.59	-4.93	3.64
+iShares Global Industrials ETF	EXI	US Fund Industrials	0.61	-2.27	13.47	25.17	-14.40	27.13	11.33	17.38	-12.35	22.04
+iShares Global Infrastructure ETF	IGF	US Fund Infrastructure	11.45	-12.10	11.86	19.34	-9.94	25.81	-6.50	11.58	-1.23	6.17
+iShares Global Materials ETF	MXI	US Fund Natural Resources	-8.37	-16.91	23.54	30.34	-16.04	22.20	22.31	15.08	-9.06	14.39
+iShares Global REIT ETF	REET	US Fund Global Real Estate	-	0.64	5.30	7.48	-5.26	24.39	-10.55	32.42	-24.07	10.31
+iShares Global Tech ETF	IXN	US Fund Technology	15.26	3.93	13.92	41.23	-5.44	47.87	43.62	29.59	-29.86	53.00
+iShares Global Timber & Forestry ETF	WOOD	US Fund Natural Resources	1.85	-8.02	14.26	34.50	-17.73	19.76	20.35	17.03	-19.35	13.85
+iShares Global Utilities ETF	JXI	US Fund Utilities	15.25	-7.11	6.27	14.82	2.31	23.92	5.18	10.87	-4.15	0.66
+iShares India 50 ETF	INDY	US Fund India Equity	27.86	-8.57	1.03	36.15	-4.29	9.99	10.01	19.55	-7.33	16.88
+iShares International Dev Real Est ETF	IFGL	US Fund Global Real Estate	0.79	-3.91	1.42	20.02	-6.37	20.61	-7.67	8.31	-24.17	5.43
+iShares International Equity Factor ETF	INTF	US Fund Foreign Large Blend	-	-	-0.64	28.49	-15.86	18.45	2.82	11.72	-12.28	18.29
+iShares Latin America 40 ETF	ILF	US Fund Latin America Stock	-12.30	-31.53	32.35	26.35	-6.87	13.76	-11.68	-13.48	10.03	33.20
+iShares MSCI ACWI ETF	ACWI	US Fund Global Large-Stock Blend	3.82	-2.22	8.40	24.35	-9.12	26.58	16.33	18.67	-18.37	22.30
+iShares MSCI ACWI ex US ETF	ACWX	US Fund Foreign Large Blend	-5.06	-5.81	4.54	27.22	-13.94	21.03	10.29	7.68	-16.04	15.67
+iShares MSCI Agriculture Producers ETF	VEGI	US Fund Natural Resources	-1.46	-13.56	13.73	19.80	-9.75	13.49	20.08	21.58	6.35	-8.58
+iShares MSCI All Country Asia ex Jpn ETF	AAXJ	US Fund Pacific/Asia ex-Japan Stk	2.85	-10.31	4.69	41.77	-15.04	17.92	23.36	-5.71	-20.35	5.15
+iShares MSCI Australia ETF	EWA	US Fund Miscellaneous Region	-4.66	-9.96	11.10	19.93	-12.02	22.41	8.27	8.95	-5.86	13.86
+iShares MSCI BIC ETF	BKF	US Fund Diversified Emerging Mkts	-4.31	-14.05	10.97	41.81	-13.80	22.91	16.54	-11.83	-21.77	1.30
+iShares MSCI Canada ETF	EWC	US Fund Miscellaneous Region	1.08	-23.91	23.82	15.74	-17.16	27.56	5.52	27.00	-12.95	14.75
+iShares MSCI China ETF	MCHI	US Fund China Region	6.81	-8.99	-0.32	54.68	-19.77	23.70	27.78	-21.73	-22.76	-11.22
+iShares MSCI China Small-Cap ETF	ECNS	US Fund China Region	0.12	1.32	-3.87	27.56	-18.22	7.81	25.37	2.17	-24.57	-22.98
+iShares MSCI EAFE ETF	EFA	US Fund Foreign Large Blend	-6.20	-1.00	1.37	25.10	-13.81	22.03	7.59	11.46	-14.35	18.40
+iShares MSCI EAFE Growth ETF	EFG	US Fund Foreign Large Growth	-5.89	3.72	-3.09	28.88	-12.91	27.46	17.84	11.01	-23.10	17.58
+iShares MSCI EAFE Small-Cap ETF	SCZ	US Fund Foreign Small/Mid Blend	-6.07	9.10	2.63	32.73	-17.63	24.67	11.69	10.14	-21.24	13.01
+iShares MSCI EAFE Value ETF	EFV	US Fund Foreign Large Value	-6.80	-5.86	5.05	21.24	-14.65	15.78	-2.97	11.10	-5.18	18.89
+iShares MSCI Emerging Markets Asia ETF	EEMA	US Fund Pacific/Asia ex-Japan Stk	3.29	-11.38	5.72	43.42	-15.77	18.59	25.18	-4.18	-21.49	6.84
+iShares MSCI Emerging Markets ETF	EEM	US Fund Diversified Emerging Mkts	-3.92	-16.18	10.87	37.28	-15.31	18.20	17.03	-3.62	-20.56	8.99
+iShares MSCI Emerging Mkts ex China ETF	EMXC	US Fund Diversified Emerging Mkts	-	-	-	-	-12.97	15.78	12.77	8.55	-19.56	18.98
+iShares MSCI Eurozone ETF	EZU	US Fund Europe Stock	-9.87	-1.65	1.86	27.91	-16.74	23.27	7.60	13.94	-17.21	23.46
+iShares MSCI Global Energy Producers ETF	FILL	US Fund Equity Energy	-15.90	-21.72	27.92	9.72	-11.72	8.40	-28.28	42.14	42.49	3.65
+iShares MSCI Global Gold Miners ETF	RING	US Fund Equity Precious Metals	-17.63	-25.84	58.69	10.24	-13.14	49.91	24.98	-7.49	-15.40	12.34
+iShares MSCI Global Mtls&Mng Prdcrs ETF	PICK	US Fund Natural Resources	-19.69	-40.37	54.74	38.47	-18.63	16.45	27.48	22.64	2.67	9.75
+iShares MSCI Global Silver&Mtls Mnrs ETF	SLVP	US Fund Equity Precious Metals	-14.94	-35.53	90.56	4.58	-22.13	37.73	56.53	-23.55	-18.04	-2.29
+iShares MSCI Global Sust Dev Goals ETF	SDG	US Fund Global Large-Stock Blend	-	-	-	27.30	-8.33	25.36	44.34	-1.20	-11.52	4.61
+iShares MSCI Hong Kong ETF	EWH	US Fund China Region	3.25	-1.17	1.35	36.50	-8.73	10.71	4.19	-3.48	-6.82	-13.81
+iShares MSCI India ETF	INDA	US Fund India Equity	21.74	-7.12	-1.64	36.08	-6.69	6.49	14.83	21.49	-8.94	17.16
+iShares MSCI India Small-Cap ETF	SMIN	US Fund India Equity	53.18	-0.14	0.49	62.35	-25.54	-5.20	19.58	44.45	-14.23	35.43
+iShares MSCI Intl Small-Cap Mltfct ETF	ISCF	US Fund Foreign Small/Mid Blend	-	-	-1.26	38.15	-18.75	26.29	7.63	13.34	-15.05	11.54
+iShares MSCI Japan ETF	EWJ	US Fund Japan Stock	-6.22	9.16	2.77	24.27	-14.09	19.33	15.41	1.17	-17.72	20.32
+iShares MSCI Japan Small-Cap ETF	SCJ	US Fund Japan Stock	-2.66	14.88	8.27	31.62	-17.17	19.17	7.48	-2.94	-12.75	13.24
+iShares MSCI Japan Value ETF	EWJV	US Fund Japan Stock	-	-	-	-	-	-	2.41	5.50	-6.03	23.64
+iShares MSCI Pacific ex Japan ETF	EPP	US Fund Pacific/Asia ex-Japan Stk	-1.94	-8.58	7.22	26.10	-10.77	18.27	6.03	4.29	-6.56	5.82
+iShares MSCI United Kingdom ETF	EWU	US Fund Miscellaneous Region	-7.61	-7.03	-1.23	21.59	-14.28	21.25	-11.80	18.22	-4.38	12.42
+iShares MSCI World ETF	URTH	US Fund Global Large-Stock Blend	4.36	-0.64	7.31	22.96	-8.56	28.14	15.78	22.28	-17.96	23.97
+iShares U.S. Equity Factor ETF	LRGF	US Fund Large Blend	-	-	12.96	21.13	-9.64	26.12	11.11	25.01	-14.76	25.87
+iShares USD Green Bond ETF	BGRN	US Fund Global Bond-USD Hedged	-	-	-	-	-	9.71	6.86	-2.79	-13.06	6.50
+iShares ESG MSCI EM Leaders ETF	LDEM	US Fund Diversified Emerging Mkts	-	-	-	-	-	-	-	-2.01	-22.51	6.55
+S&P 500 TR USD	-	-	13.69	1.38	11.96	21.83	-4.38	31.49	18.40	28.71	-18.11	26.29

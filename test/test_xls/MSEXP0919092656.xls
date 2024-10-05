@@ -1,0 +1,771 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<Author>Morningstar</Author>
+<LastAuthor>Morningstar</LastAuthor>
+<Created>9/19/2024 9:26:56 AM</Created>
+<Version>14.00</Version>
+</DocumentProperties>
+<OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+<AllowPNG/>
+</OfficeDocumentSettings>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<WindowHeight>12330</WindowHeight>
+<WindowWidth>18195</WindowWidth>
+<WindowTopX>480</WindowTopX>
+<WindowTopY>120</WindowTopY>
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+<Styles>
+<Style ss:ID="Default" ss:Name="Normal">
+<Alignment ss:Vertical="Center"/>
+<Borders/>
+<Font ss:FontName="Arial" ss:Size="11" ss:Color="#000000"/>
+<Interior/>
+<NumberFormat/>
+<Protection/>
+</Style>
+<Style ss:ID="s_411">
+<Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="1"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_412">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="1"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_413">
+<Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_414">
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="#,##0.00"/>
+</Style><Style ss:ID="s_415">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="Standard"/>
+</Style><Style ss:ID="s_416">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="MM/dd/yyyy"/>
+</Style><Style ss:ID="s_417">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_418">
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_419">
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style><Style ss:ID="s_420">
+<Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+<Font ss:FontName="Arial" ss:Size="10" ss:Bold="0"/>
+<NumberFormat ss:Format="General"/>
+</Style>
+</Styles>
+<Worksheet ss:Name="MSEXP0919092656.xls">
+<Table ss:ExpandedColumnCount="13" ss:ExpandedRowCount="23" ss:DefaultRowHeight="13.5">
+<Column ss:AutoFitWidth="0" ss:Width="250"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Column ss:AutoFitWidth="0" ss:Width="100"/>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">TM- MWM Menu</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">US Mutual Fund Universe</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">TM- MF Annual</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">  FINRA members: For internal or institutional use only.</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Print Date 09-19-2024</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Ranked by:</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">ascending</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Name</Data>
+</Cell>
+</Row>
+<Row >
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Name</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Ticker</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Morningstar Category</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Annual Return 2014</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Annual Return 2015</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Annual Return 2016</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Annual Return 2017</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Annual Return 2018</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Annual Return 2019</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Annual Return 2020</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Annual Return 2021</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Annual Return 2022</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Annual Return 2023</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Vanguard 500 Index Admiral</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">VFIAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">US Fund Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">13.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">1.36</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">11.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">21.79</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-4.43</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">31.46</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">18.37</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">28.66</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-18.15</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">26.24</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Vanguard Consumer Staples Index Admiral</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">VCSAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">US Fund Consumer Defensive</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">15.85</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">6.01</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">6.30</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">11.80</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-7.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">26.07</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">10.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">17.52</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-1.74</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">2.37</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Vanguard Dividend Appreciation Index Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">VDADX</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">US Fund Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">10.04</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-1.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">11.79</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">22.22</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-2.03</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">29.68</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">15.46</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">23.62</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-9.80</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">14.46</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Vanguard GNMA Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">VFIJX</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">US Fund Intermediate Government</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">6.76</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">1.43</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">1.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">1.97</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">0.97</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">5.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">3.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-1.02</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-10.73</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">5.26</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Vanguard Health Care Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">VGHAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">US Fund Health</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">28.57</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">12.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-8.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">19.66</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">1.21</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">22.98</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">12.67</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">14.36</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-1.01</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">5.48</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Vanguard Interm-Term Investment-Grde Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">VFIDX</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">US Fund Corporate Bond</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">5.91</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">1.63</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">3.93</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">4.26</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-0.47</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">10.49</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">10.41</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-1.14</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-13.78</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">8.61</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Vanguard Mid Cap Index Admiral</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">VIMAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">US Fund Mid-Cap Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">13.76</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-1.34</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">11.22</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">19.25</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-9.23</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">31.03</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">18.24</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">24.51</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-18.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">15.98</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Vanguard Real Estate Index Admiral</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">VGSLX</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">US Fund Real Estate</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">30.32</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">2.39</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">8.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">4.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-5.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">28.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-4.65</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">40.40</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-26.20</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">11.81</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Vanguard Small Cap Index Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">VSMAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">US Fund Small Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">7.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-3.64</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">18.30</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">16.24</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-9.31</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">27.37</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">19.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">17.73</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-17.61</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">18.20</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Vanguard Total Intl Stock Index Admiral</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">VTIAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">US Fund Foreign Large Blend</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-4.17</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-4.26</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">4.67</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">27.55</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-14.43</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">21.51</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">11.28</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">8.62</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-16.01</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">15.52</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Vanguard Utilities Index Adm</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">VUIAX</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">US Fund Utilities</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">26.94</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-4.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">17.51</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">12.50</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">4.45</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">24.95</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-0.81</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">17.35</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">1.13</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-7.45</Data>
+</Cell>
+</Row>
+<Row >
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Aggregate:
+			</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Average:
+          </Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">Benchmark:
+			</Data>
+</Cell>
+</Row>
+<Row >
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">S&amp;P 500 TR USD</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">-</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">13.69</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">1.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">11.96</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">21.83</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-4.38</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">31.49</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">18.40</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">28.71</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">-18.11</Data>
+</Cell>
+<Cell  ss:StyleID="s_414">
+<Data ss:Type="Number">26.29</Data>
+</Cell>
+</Row>
+<Row ss:Height="290">
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String">©2024 Morningstar. All Rights Reserved. The information, data, analyses and opinions contained herein (1) include the confidential and proprietary information of Morningstar, (2) may include, or be derived from, account information provided by your financial advisor which cannot be verified by Morningstar, (3) may not be copied or redistributed,(4) do not constitute investment advice offered by Morningstar, (5)are provided solely for informational purposes and therefore are not an offer to buy or sell a security, and (6) are not warranted to be correct, complete or accurate. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses resulting from, or related to, this information, data, analyses or opinions or their use. This report is supple-mental sales literature. If applicable it must be preceded or accompanied by a prospectus, or equivalent,and disclosure statement.</Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell  ss:StyleID="s_418">
+<Data ss:Type="String"></Data>
+</Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>

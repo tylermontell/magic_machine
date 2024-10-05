@@ -1,0 +1,9 @@
+name	ticker	m_cat	ar_14	ar_15	ar_16	ar_17	ar_18	ar_19	ar_20	ar_21	ar_22	ar_23
+Vanguard Developed Markets Index Admiral	VTMGX	US Fund Foreign Large Blend	-5.66	-0.18	2.45	26.40	-14.46	22.05	10.26	11.43	-15.32	17.67
+Vanguard Emerging Mkts Stock Idx Adm	VEMAX	US Fund Diversified Emerging Mkts	0.60	-15.35	11.73	31.38	-14.58	20.31	15.24	0.86	-17.78	9.21
+Vanguard Inflation-Protected Secs Adm	VAIPX	US Fund Inflation-Protected Bond	3.97	-1.69	4.62	2.91	-1.39	8.16	10.96	5.68	-11.85	3.79
+Vanguard Real Estate Index Admiral	VGSLX	US Fund Real Estate	30.32	2.39	8.50	4.94	-5.95	28.94	-4.65	40.40	-26.20	11.81
+Vanguard Total Bond Market Index Adm	VBTLX	US Fund Intermediate Core Bond	5.89	0.40	2.60	3.56	-0.03	8.71	7.72	-1.67	-13.16	5.70
+Vanguard Total Intl Bd Idx Admiral	VTABX	US Fund Global Bond-USD Hedged	8.82	1.06	4.66	2.39	2.97	7.83	4.54	-2.22	-12.92	8.83
+Vanguard Total Stock Mkt Idx Adm	VTSAX	US Fund Large Blend	12.56	0.39	12.66	21.17	-5.17	30.80	20.99	25.71	-19.53	26.01
+S&P 500 TR USD	-	-	13.69	1.38	11.96	21.83	-4.38	31.49	18.40	28.71	-18.11	26.29

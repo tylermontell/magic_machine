@@ -1,0 +1,14 @@
+name	m_risk_score	m_risk_score_date	source	editable	service	benchmark	asset_alloc_model	alloc_by	tracking_method	created_by	date	last_mod_by	last_mod_date	locked_by	locked_date
+G Aggressive	58	2023-04-01	Manual	Yes	-	DJ Aggressive TR USD	-	Percentage	Floating	GREG COUCH	09-21-2020 9:02AM	GREG COUCH	10-11-2022 3:54PM	-	-
+G Conservative	29	2023-04-01	Manual	Yes	-	DJ Conservative TR USD	-	Percentage	Floating	GREG COUCH	09-21-2020 9:01AM	GREG COUCH	10-11-2022 3:54PM	-	-
+G Moderate	44	2023-04-01	Manual	Yes	-	DJ Moderate TR USD	-	Percentage	Floating	GREG COUCH	09-21-2020 9:02AM	GREG COUCH	10-11-2022 3:55PM	-	-
+G Moderately Aggressive	51	2023-04-01	Manual	Yes	-	DJ Moderately Aggressive TR USD	-	Percentage	Floating	GREG COUCH	09-21-2020 9:02AM	GREG COUCH	10-11-2022 3:55PM	-	-
+G Moderately Conservative	37	2023-04-01	Manual	Yes	-	DJ Moderately Conservative TR USD	-	Percentage	Floating	GREG COUCH	09-21-2020 9:02AM	GREG COUCH	10-11-2022 3:53PM	-	-
+G Very Aggressive	65	2023-04-01	Manual	Yes	-	DJ Aggressive TR USD	-	Percentage	Floating	GREG COUCH	09-21-2020 9:02AM	GREG COUCH	10-11-2022 3:56PM	-	-
+Meridian Aggressive	44	2024-07-28	Manual	Yes	Advisory	DJ Aggressive TR USD	-	Percentage	Floating	GREG COUCH	10-11-2022 2:16PM	GREG COUCH	02-15-2024 2:32PM	-	-
+Meridian Balanced	30	2024-07-28	Manual	Yes	Advisory	DJ Moderate TR USD	-	Percentage	Floating	GREG COUCH	10-11-2022 2:33PM	GREG COUCH	02-15-2024 2:41PM	-	-
+Meridian Balanced Growth	35	2024-07-28	Manual	Yes	Advisory	DJ Moderate TR USD	-	Percentage	Floating	GREG COUCH	10-11-2022 2:37PM	GREG COUCH	02-15-2024 11:49PM	-	-
+Meridian Conservative	20	2024-07-28	Manual	Yes	Advisory	DJ Conservative TR USD	-	Percentage	Floating	GREG COUCH	10-11-2022 2:39PM	GREG COUCH	02-15-2024 2:28PM	-	-
+Meridian Income	16	2024-07-28	Manual	Yes	Advisory	DJ Conservative TR USD	-	Percentage	Floating	GREG COUCH	10-11-2022 2:41PM	GREG COUCH	02-15-2024 11:59PM	-	-
+Meridian Moderate Aggressive	39	2024-07-28	Manual	Yes	Advisory	DJ Moderately Aggressive TR USD	-	Percentage	Floating	GREG COUCH	10-11-2022 2:43PM	GREG COUCH	02-16-2024 12:02AM	-	-
+Meridian Moderate Conservative	25	2024-07-28	Manual	Yes	Advisory	DJ Moderately Conservative TR USD	-	Percentage	Floating	GREG COUCH	10-11-2022 2:44PM	GREG COUCH	02-16-2024 12:06AM	-	-
