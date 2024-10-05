@@ -1,4 +1,4 @@
-name: Repopack Workflow
+name: Repopack Automation
 
 on:
   push:
@@ -21,11 +21,18 @@ jobs:
       - name: Install Repopack
         run: npm install -g repopack
 
-      - name: Run Repopack
-        run: repopack --remote https://github.com/your_username/your_repo.git
+      # Running the preprocessing script with an explicit path
+      - name: Run Preprocessing Script
+        run: python /Users/tylermontell/Projects/magic_machine_app/preprocess_repopack.py
 
-      - name: Upload repopack output
+      - name: Upload Session Summaries
         uses: actions/upload-artifact@v2
         with:
-          name: repopack-output
-          path: ./repopack-output.txt
+          name: session-summaries
+          path: /Users/tylermontell/Projects/magic_machine_app/session_summaries.txt
+
+      - name: Upload Optimized Output
+        uses: actions/upload-artifact@v2
+        with:
+          name: optimized-repopack-output
+          path: ./optimized-repopack-output.xml
