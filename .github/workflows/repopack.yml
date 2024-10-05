@@ -20,7 +20,9 @@ jobs:
 
       - name: Install Repopack
         run: npm install -g repopack
-
+      - name: List Directory
+        run: ls -R
+      
       # Use relative path for the preprocessing script
       - name: Run Preprocessing Script
         run: python magic_machine_app/preprocess_repopack.py
