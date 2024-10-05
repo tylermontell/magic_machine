@@ -21,13 +21,13 @@ jobs:
       - name: Install Repopack
         run: npm install -g repopack
 
-      # Debugging: Run Repopack and generate the output, then check the current directory
+      # Run Repopack command and generate the output
       - name: Run Repopack and Generate Output
         run: |
-          run: repopack --remote https://github.com/tylermontell/magic_machine.git
+          repopack --remote https://github.com/tylermontell/magic_machine.git
           ls -l  # List the current directory to check for repopack-output.xml
 
-      # Debugging: Check if repopack-output.xml exists
+      # Check if repopack-output.xml exists in the directory
       - name: Check Repopack Output
         run: |
           if [ -f "repopack-output.xml" ]; then
