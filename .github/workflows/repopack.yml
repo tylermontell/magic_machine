@@ -20,18 +20,16 @@ jobs:
 
       - name: Install Repopack
         run: npm install -g repopack
-      - name: List Directory
-        run: ls -R
-      
-      # Use relative path for the preprocessing script
+
+      # Use correct path for the preprocessing script (root directory)
       - name: Run Preprocessing Script
-        run: python magic_machine_app/preprocess_repopack.py
+        run: python preprocess_repopack.py
 
       - name: Upload Session Summaries
         uses: actions/upload-artifact@v3
         with:
           name: session-summaries
-          path: magic_machine_app/session_summaries.txt
+          path: session_summaries.txt
 
       - name: Upload Optimized Output
         uses: actions/upload-artifact@v3
