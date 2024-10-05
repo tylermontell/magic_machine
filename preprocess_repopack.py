@@ -6,11 +6,21 @@ REPOPACK_FILE = "repopack-output.xml"
 OUTPUT_FILE = "optimized-repopack-output.xml"
 IGNORE_PATTERNS = ['*.log', '*.test', 'tmp/', 'node_modules/', 'venv/', '__pycache__']
 
+# Convert glob patterns to regex for `should_ignore` function
+def glob_to_regex(pattern):
+    return re.sub(r"\*", r".*", pattern)
+
 def should_ignore(file_path):
-    """Check if the file matches any ignore patterns."""
-    for pattern in IGNORE_PATTERNS:
-        if re.search(pattern, file_path):
-            return True
+    # Convert glob patterns to regex
+    patterns_to_ignore = [glob_to_regex(p) for p in IGNORE_PATTERNS]
+    
+    for pattern in patterns_to_ignore:
+        try:
+            if re.search(pattern, file_path):
+                return True
+        except re.error as e:
+            print(f"Invalid regex pattern '{pattern}': {e}")
+            continue
     return False
 
 def extract_summaries(lines):

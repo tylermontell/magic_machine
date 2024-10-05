@@ -12,9 +12,9 @@ jobs:
     steps:
       # Step 1: Checkout the repository
       - name: Checkout code
-        uses: actions/checkout@v3  # Updated to use v3 to address Node.js version warnings
+        uses: actions/checkout@v3
 
-      # Step 2: Install Node.js (updated to version 20 to avoid future deprecations)
+      # Step 2: Install Node.js v20
       - name: Install Node.js
         uses: actions/setup-node@v3
         with:
@@ -24,10 +24,20 @@ jobs:
       - name: Install Repopack
         run: npm install -g repopack
 
-      # Step 4: Verify repository access (for debugging purposes)
+      # Verify repository access
       - name: Verify Repository Access
+        run: git ls-remote https://github.com/tylermontell/magic_machine.git
+
+      # Run Repopack command
+      - name: Run Repopack and Generate Output
         run: |
-          git ls-remote https://github.com/tylermontell/magic_machine.git
+          repopack --config repopack.config.json
+          ls -l
+
+      # Step 4: Run Preprocessing Script if repopack-output.xml exists
+      - name: Run Preprocessing Script
+        if: success()
+        run: python preprocess_repopack.py
 
       # Step 5: Run Repopack using the config file to ensure proper XML output
       - name: Run Repopack with Config
