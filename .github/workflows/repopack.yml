@@ -26,13 +26,13 @@ jobs:
         run: python /Users/tylermontell/Projects/magic_machine_app/preprocess_repopack.py
 
       - name: Upload Session Summaries
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: session-summaries
           path: /Users/tylermontell/Projects/magic_machine_app/session_summaries.txt
 
       - name: Upload Optimized Output
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: optimized-repopack-output
           path: ./optimized-repopack-output.xml
