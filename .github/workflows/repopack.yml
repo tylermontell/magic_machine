@@ -24,17 +24,17 @@ jobs:
       - name: Install Repopack
         run: npm install -g repopack
 
-      # Verify repository access
+      # Step 4: Verify repository access
       - name: Verify Repository Access
         run: git ls-remote https://github.com/tylermontell/magic_machine.git
 
-      # Step 4: Run Repopack and Generate Output
+      # Step 5: Run Repopack and Generate Output
       - name: Run Repopack and Generate Output
         run: |
           repopack --config repopack.config.json
           ls -l
 
-      # Step 5: Commit and Push Optimized Output
+      # Step 6: Commit and Push Optimized Output
       - name: Commit and Push Optimized Output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Correct reference to GitHub's built-in token
@@ -42,17 +42,17 @@ jobs:
           git config --local user.email "65912567+tylermontell@users.noreply.github.com"  # Use your noreply email
           git config --local user.name "GitHub Action"
           git add optimized-repopack-output.xml
-          git commit -am "Auto-commit optimized repopack output"  # Add the -a flag to stage modified files automatically
+          git commit -am "Auto-commit optimized repopack output"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/tylermontell/magic_machine.git main
-    
-      # Step 6: Upload session summaries as artifacts
+
+      # Step 7: Upload session summaries as artifacts
       - name: Upload Session Summaries
         uses: actions/upload-artifact@v3
         with:
           name: session-summaries
           path: session_summaries.txt
 
-      # Step 7: Upload optimized repopack output as artifacts
+      # Step 8: Upload optimized repopack output as artifacts
       - name: Upload Optimized Output
         uses: actions/upload-artifact@v3
         with:
