@@ -34,46 +34,27 @@ jobs:
           repopack --config repopack.config.json
           ls -l
 
-      # Step 5: Run Preprocessing Script if repopack-output.xml exists
-      - name: Run Preprocessing Script
-        if: success()
-        run: python preprocess_repopack.py
-
-      # Step 6: Commit and push the optimized output back to the repository
+      # Step 5: Commit and Push Optimized Output
       - name: Commit and Push Optimized Output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Correct reference to GitHub's built-in token
         run: |
-          git config --local user.email "you@example.com"
+          git config --local user.email "65912567+tylermontell@users.noreply.github.com"  # Use your noreply email
           git config --local user.name "GitHub Action"
           git add optimized-repopack-output.xml
           git commit -m "Auto-commit optimized repopack output"
-          git push origin main
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/tylermontell/magic_machine.git main
 
-      # Step 7: Upload session summaries as artifacts
+      # Step 6: Upload session summaries as artifacts
       - name: Upload Session Summaries
         uses: actions/upload-artifact@v3
         with:
           name: session-summaries
           path: session_summaries.txt
 
-      # Step 8: Upload optimized repopack output as artifacts
+      # Step 7: Upload optimized repopack output as artifacts
       - name: Upload Optimized Output
         uses: actions/upload-artifact@v3
         with:
           name: optimized-repopack-output
           path: ./optimized-repopack-output.xml
-
-      # Step 9: Upload optimized repopack output as artifacts
-      - name: Upload Optimized Output
-        uses: actions/upload-artifact@v3
-        with:
-          name: optimized-repopack-output
-          path: ./optimized-repopack-output.xml
-      
-      # Step 10: Commit and push the optimized output back to the repository
-      - name: Commit and Push Optimized Output
-        run: |
-          git config --local user.email "you@example.com"
-          git config --local user.name "GitHub Action"
-          git add optimized-repopack-output.xml
-          git commit -m "Auto-commit optimized repopack output"
-          git push origin main
