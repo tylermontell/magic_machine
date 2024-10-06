@@ -42,9 +42,9 @@ jobs:
           git config --local user.email "65912567+tylermontell@users.noreply.github.com"  # Use your noreply email
           git config --local user.name "GitHub Action"
           git add optimized-repopack-output.xml
-          git commit -m "Auto-commit optimized repopack output"
+          git commit -am "Auto-commit optimized repopack output"  # Add the -a flag to stage modified files automatically
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/tylermontell/magic_machine.git main
-
+    
       # Step 6: Upload session summaries as artifacts
       - name: Upload Session Summaries
         uses: actions/upload-artifact@v3
