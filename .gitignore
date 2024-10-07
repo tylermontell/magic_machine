@@ -59,6 +59,9 @@ yarn-error.log*
 *.seed[]
 *.pid.lock
 venv/
+data/
+test/ann_xls
+test/test_xls
 
 # Temporary files created by your text editor or IDE
 *.swp
